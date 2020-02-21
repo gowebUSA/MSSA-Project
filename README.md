@@ -1,3 +1,3 @@
 # MSSA-Project
 
-MSSAS& repository for projects in C# and T-SQL.
+MSSAS7 repository for projects in C# and T-SQL.
