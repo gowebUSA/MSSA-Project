@@ -4,6 +4,17 @@ O-MAF - Online Maintenance Action Form.
 
 Concept File is the [O-MAF Concept.pptx](https://github.com/gowebUSA/MSSA-Project/blob/master/T-SQL/O-MAF%20Concept.pptx) 
 <br /><br />
+
+Database diagram:
+1. [Database Diagram Summary](https://github.com/gowebUSA/MSSA-Project/blob/master/T-SQL/Database%20Diagram.docx)
+2. [SQL Queries](https://github.com/gowebUSA/MSSA-Project/blob/master/T-SQL/o_maf.sql) to create 
+<br />-Database
+<br />-Table
+<br />-Columns
+<br />-Sample data
+
+<br /> <br />
+
 Wire Frames:
 
 1. [Login Page - Draft](https://github.com/gowebUSA/MSSA-Project/blob/master/T-SQL/1%20Login%20Page.epgz)
