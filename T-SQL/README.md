@@ -13,7 +13,7 @@ Database diagram:
 <br />-Columns
 <br />-Sample data
 
-<br /> <br />
+<br />
 
 Wire Frames:
 
