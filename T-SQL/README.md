@@ -1,1 +1,5 @@
-MSSAS7 repository for projects in C# and T-SQL.
+MSSASD7 SQL Project Draft submission.
+
+O-MAF - Online Maintenance Action Form.
+
+See 
