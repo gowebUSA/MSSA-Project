@@ -1,4 +1,4 @@
-All files for submission for Project Step 7.
+All files for submission on Project Step 7.
 
 - [ ] User Stories (2-5)
 - [ ] Use Cases (4-10)
