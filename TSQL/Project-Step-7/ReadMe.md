@@ -13,5 +13,7 @@ Green Belt.
 - [X] [4. Requirement List and RTM](Requirement%20List%20and%20RTM.pdf)- .pdf
 - [X] [5. O-MAF SRS](O-MAF%20srs.pdf)- .pdf
 
+### O-MAF Concept
+![O-MAF Concept](O-MAF-concept.png)
 ### User Case UML
 ![User Case Diagram UML](Case%20UML.png)
