@@ -1,4 +1,5 @@
 ## O-MAF Project
+![O-MAF Concept](O-MAF-concept.png)
 Using O MAF will enable maintenance controllers to
 effectively manage all MAFs and set priorities.
 Efficiency will be increased by 67% based on
@@ -13,7 +14,5 @@ Green Belt.
 - [X] [4. Requirement List and RTM](Requirement%20List%20and%20RTM.pdf)- .pdf
 - [X] [5. O-MAF SRS](O-MAF%20srs.pdf)- .pdf
 
-### O-MAF Concept
-![O-MAF Concept](O-MAF-concept.png)
 ### User Case UML
 ![User Case Diagram UML](Case%20UML.png)
