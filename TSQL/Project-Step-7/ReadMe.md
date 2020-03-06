@@ -2,7 +2,7 @@
 ### Table Of Contents
 All files for submission on Project Step 7.
 
-- [X] [O-MAF Concept](https://github.com/gowebUSA/MSSA-Project/blob/master/C%23/O-MAF%20Concept.pptx)- .pptx
+- [X] [0. O-MAF Concept](O-MAF%20Concept.pdf)- .pdf
 - [X] [1. User Stories (2-5)](User%20Story.pdf)- .pdf
 - [ ] 2. Use Cases (4-10)
 - [X] [3. User Case Diagram UML](#user-case-uml)
