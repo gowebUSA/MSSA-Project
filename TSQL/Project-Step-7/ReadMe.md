@@ -6,4 +6,5 @@ All files for submission on Project Step 7.
 - [X] [Requirement List and RTM](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/Requirement%20List%20and%20RTM.docx)- .docx
 - [X] [O-MAF SRS](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/O-MAF%20srs.docx)
 
+require "User Case Diagram UML"
 ![User Case Diagram UML](Case%20UML.png)
