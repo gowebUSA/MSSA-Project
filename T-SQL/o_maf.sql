@@ -235,4 +235,4 @@ create table
     transCdDesc varchar
     )
 */
-[Go back to O-MAF project.](https://github.com/gowebUSA/MSSA-Project/tree/master/TSQL/Project-Step-7)    
+-- Copy and paste this link to your browser to go back to O-MAF project. (https://github.com/gowebUSA/MSSA-Project/tree/master/TSQL/Project-Step-7)    
