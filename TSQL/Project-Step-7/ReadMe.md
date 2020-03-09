@@ -13,6 +13,7 @@ Green Belt.
 - [X] [3. User Case Diagram UML](#user-case-uml)
 - [X] [4. Requirement List and RTM](Requirement%20List%20and%20RTM.pdf)- .pdf
 - [X] [5. O-MAF SRS](O-MAF%20srs.pdf)- .pdf
+- [X] [6. O-MAF SQL Quesries](https://github.com/gowebUSA/MSSA-Project/blob/master/T-SQL/o_maf.sql) - .sql
 
 ### User Case UML
 ![User Case Diagram UML](Case%20UML.png)
