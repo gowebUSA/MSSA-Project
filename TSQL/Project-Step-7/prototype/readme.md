@@ -7,7 +7,7 @@
 - [X] 4. Welcome Page Image <br />
 ![Welcome Page Image](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/prototype/WelcomePage2.png)
 - [X] 5. Log In Image <br />
-![Login Image](https://GitHub.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/prototype/Login-Image3.png)
+![Login Image](https://GitHub.com/gowebUSA/MSSA-Project/raw/master/TSQL/Project-Step-7/prototype/Login-Image3.png)
 - [X] 6. Logged In Thank You Image <br />
 ![Thank You Image](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/prototype/ThankYouPage.png)
 - [X] 7. Initiate Discrepancy Image <br />
