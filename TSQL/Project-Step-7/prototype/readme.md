@@ -6,5 +6,7 @@
 ![Login Image](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/prototype/WelcomePage2.png)
 - [X] 3. Log In Image <br />
 ![Login Image](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/prototype/Login-Image2.png)
+- [X] 4. Logged In Thank You Image <br />
+![Thank You Image](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/prototype/ThankYouPage.png)
 
 
