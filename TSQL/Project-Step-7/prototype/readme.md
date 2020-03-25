@@ -1,12 +1,12 @@
 # O-MAF Project Solution
-## Ready For Review
+## Table Of Contents
 
 - [X] [0. Concept Page](https://github.com/gowebUSA/MSSA-Project/tree/master/TSQL/Project-Step-7)
 - [X] [1. Solution File .sln](https://github.com/gowebUSA/O-MAF)
 - [X] [2. SQL File .sql](https://github.com/gowebUSA/MSSA-Project/blob/master/T-SQL/o_maf.sql)
 - [X] [3. Requirement List and RTM.pdf](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/Requirement%20List%20and%20RTM.pdf)
 
-### Sample Images:
+## Sample Images:
 - 1. Welcome Page Image <br />
 ![Welcome Page Image](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/prototype/WelcomePage2.png)
 - 2. Log In Image <br />
