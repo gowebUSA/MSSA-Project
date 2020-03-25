@@ -1,4 +1,6 @@
 # O-MAF Project Solution
+![Concept](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/prototype/images/Concept.png)
+
 ## Table Of Contents
 
 - [X] [0. Concept Page](https://github.com/gowebUSA/MSSA-Project/tree/master/TSQL/Project-Step-7)
