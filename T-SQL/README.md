@@ -28,6 +28,7 @@ Wire Frames:
 7. [Sign Off MAF - Draft](https://github.com/gowebUSA/MSSA-Project/blob/master/T-SQL/7%20Complete.epgz)
 8. [MC Verification - Draft](https://github.com/gowebUSA/MSSA-Project/blob/master/T-SQL/8%20MC.epgz)
 9. [Submit Contingencies to the server - Draft](https://github.com/gowebUSA/MSSA-Project/blob/master/T-SQL/9%20Contingency.epgz)
+10. [Prototype](https://github.com/gowebUSA/MSSA-Project/tree/master/TSQL/Project-Step-7/prototype#o-maf-project-solution)
 
 *You will need [PencilProject](https://pencil.evolus.vn/) to open .epgz files.<br />
 *To open .drawio file, please visit [Draw.io](https://www.draw.io/).
