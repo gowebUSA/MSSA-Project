@@ -16,13 +16,15 @@
 [Top](#o-maf-project-solution)
 
 ## Sample Images:
-- 1. Welcome Page Image <br />
+- 1 Welcome Page Image <br />
 ![Welcome Page Image](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/prototype/WelcomePage2.png)
-- 2. Log In Image <br />
+- 2 Log In Image <br />
 ![Login Image](https://GitHub.com/gowebUSA/MSSA-Project/raw/master/TSQL/Project-Step-7/prototype/Login-Image3.png)
-- 3. Logged In Thank You Image <br />
+- 3 Logged In Thank You Image <br />
 ![Thank You Image](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/prototype/ThankYouPage.png)
-- 4. Initiate Discrepancy Image <br />
+- 4 Initiate Discrepancy Image <br />
 ![Initiate Discrepancy Image](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/prototype/InitiateDisc2.png)
+<br />
+[Top](#o-maf-project-solution)
 
 
