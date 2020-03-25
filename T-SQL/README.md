@@ -1,4 +1,4 @@
-Go to [prototype](https://github.com/gowebUSA/MSSA-Project/tree/master/TSQL/Project-Step-7/prototype#o-maf-project-solution).
+[Go to prototype.](https://github.com/gowebUSA/MSSA-Project/tree/master/TSQL/Project-Step-7/prototype#o-maf-project-solution)
 
 MSSASD7 SQL Project Draft submission.
 
@@ -32,5 +32,5 @@ Wire Frames:
 *You will need [PencilProject](https://pencil.evolus.vn/) to open .epgz files.<br />
 *To open .drawio file, please visit [Draw.io](https://www.draw.io/).
 
-Go to [prototype](https://github.com/gowebUSA/MSSA-Project/tree/master/TSQL/Project-Step-7/prototype#o-maf-project-solution).
+[Go to prototype.](https://github.com/gowebUSA/MSSA-Project/tree/master/TSQL/Project-Step-7/prototype#o-maf-project-solution)
 
