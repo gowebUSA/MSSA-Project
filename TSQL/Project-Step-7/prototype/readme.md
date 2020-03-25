@@ -15,7 +15,9 @@
 <br />
 [Top](#o-maf-project-solution)
 ## Wireframe
-![Wireframe](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/Wire%20Frame/Wireframe.pdf)
+![Wireframe1](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/prototype/images/Wireframe1.png)
+![Wireframe2](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/prototype/images/Wireframe2.png)
+![Wireframe3](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/prototype/images/Wireframe3.png)
 ## Sample Images:
 - Welcome Page Image <br />
 ![Welcome Page Image](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/prototype/WelcomePage2.png)
