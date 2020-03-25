@@ -12,6 +12,7 @@
 
 ## UML
 ![UML](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/Case%20UML.png)
+<br />
 [Top](#o-maf-project-solution)
 
 ## Sample Images:
