@@ -1,4 +1,4 @@
-# O-MAF Project 9 Submission
+# O-MAF Project Solution
 ## Ready For Review
 
 - [X] [0. Concept Page](https://github.com/gowebUSA/MSSA-Project/tree/master/TSQL/Project-Step-7)
