@@ -7,7 +7,7 @@ Concept File is the [O-MAF Concept.pptx](https://github.com/gowebUSA/MSSA-Projec
 
 Database diagram:
 1. [Database Diagram Summary](https://github.com/gowebUSA/MSSA-Project/blob/master/T-SQL/Database%20Diagram.docx)
-2. [SQL Queries](https://github.com/gowebUSA/MSSA-Project/blob/master/T-SQL/o_maf.sql) to create 
+2. [SQL Query Script](https://github.com/gowebUSA/MSSA-Project/blob/master/T-SQL/o_maf.sql) to create 
 <br />-Database
 <br />-Table
 <br />-Columns
