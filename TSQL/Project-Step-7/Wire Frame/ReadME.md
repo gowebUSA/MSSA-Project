@@ -11,3 +11,8 @@
 - [9 Contingency](9%20Contingency%20-%20188%20x%20273.pdf)
 
 [Go back to O-MAF project.](https://github.com/gowebUSA/MSSA-Project/tree/master/TSQL/Project-Step-7)
+
+## Wireframe
+![Wireframe1](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/prototype/images/Wireframe1.png)
+![Wireframe2](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/prototype/images/Wireframe2.png)
+![Wireframe3](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/prototype/images/Wireframe3.png)
