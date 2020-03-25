@@ -8,6 +8,7 @@
 - [X] [2. Wireframe](https://github.com/gowebUSA/O-MAF)
 - [X] [3. SQL File Scripts](https://github.com/gowebUSA/MSSA-Project/blob/master/T-SQL/o_maf.sql)
 - [X] [4. Requirement List and RTM.pdf](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/Requirement%20List%20and%20RTM.pdf)
+- [X] [2. Sample Images](#sample-images)
 
 ## UML
 ![UML](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/Case%20UML.png)
