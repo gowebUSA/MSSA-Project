@@ -1,5 +1,5 @@
 # O-MAF Project Solution
-![Concept](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/prototype/images/Concept.png | width=100)
+![Concept](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/prototype/images/Concept.png)
 
 ## Table Of Contents
 
@@ -11,11 +11,11 @@
 - [X] [2. Sample Images](#sample-images)
 
 ## UML
-![UML](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/Case%20UML.png | width=100)
+![UML](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/Case%20UML.png)
 <br />
 [Top](#o-maf-project-solution)
 ## Wireframe
-![Wireframe1](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/prototype/images/Wireframe1.png | width=100)
+![Wireframe1](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/prototype/images/Wireframe1.png =487x898)
 ![Wireframe2](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/prototype/images/Wireframe2.png)
 ![Wireframe3](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/prototype/images/Wireframe3.png)
 ## Sample Images:
