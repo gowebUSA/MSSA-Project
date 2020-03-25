@@ -5,7 +5,7 @@
 - [X] [1. Concept Page](https://github.com/gowebUSA/MSSA-Project/tree/master/TSQL/Project-Step-7)
 - [X] [2. Use Case Diagram UML](#uml)
 - [X] [3. Wireframe](#wireframe)
-- [X] [4. SQL File Scripts](https://github.com/gowebUSA/MSSA-Project/blob/master/T-SQL/o_maf.sql)
+- [X] [4. SQL File Scripts](https://github.com/gowebUSA/MSSA-Project/blob/master/T-SQL/o_maf.sql){:target="_blank" rel="noopener"}
 - [X] [5. Requirement List and RTM.pdf](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/Requirement%20List%20and%20RTM.pdf)
 - [X] [6. Sample Images](#sample-images)
 
