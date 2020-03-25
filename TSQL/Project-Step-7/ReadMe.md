@@ -15,6 +15,7 @@ Green Belt.
 - [X] [5. Requirement List and RTM](Requirement%20List%20and%20RTM.pdf)- .pdf
 - [X] [6. O-MAF SRS](O-MAF%20srs.pdf)- .pdf
 - [X] [7. O-MAF SQL Queries](https://github.com/gowebUSA/MSSA-Project/blob/master/T-SQL/o_maf.sql) - .sql
+- [X] [8. Prototype](https://github.com/gowebUSA/MSSA-Project/tree/master/TSQL/Project-Step-7/prototype)
 
 ### User Case UML
 ![User Case Diagram UML](Case%20UML.png)
