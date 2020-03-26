@@ -6,7 +6,7 @@
 3. [Wireframe](#wireframe)
 4. [Entity Relationship Diagram](#erd)
 5. [SQL File Scripts](#sql-scripts)
-6. [Requirement List and RTM.pdf](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/Requirement%20List%20and%20RTM.pdf) .pdf
+6. [Requirement List and RTM](#requirement-traceability-matrix)
 7. [Solution File](https://github.com/gowebUSA/O-MAF) External Link
 8. [Sample Images](#sample-images)
 
@@ -33,6 +33,10 @@
 ![SQL Scripts](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/prototype/images/SQL1-7.png)
 - You can also see the full SQL scripts [here](https://github.com/gowebUSA/MSSA-Project/blob/master/T-SQL/o_maf.sql).
 
+[Top](#table-of-contents)
+## Requirement Traceability Matrix
+![RTM](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/prototype/images/rtm123.png)
+- You can also see the pdf version [here](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/Requirement%20List%20and%20RTM.pdf).
 [Top](#table-of-contents)
 ## Sample Images:
 - Welcome Page Image <br />
