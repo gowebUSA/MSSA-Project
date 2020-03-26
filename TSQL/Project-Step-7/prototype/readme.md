@@ -1,8 +1,7 @@
 # O-MAF Project Solution
-![Concept](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/prototype/images/Concept.png)
 
 ## Table Of Contents
-1. [Concept Page](https://github.com/gowebUSA/MSSA-Project/tree/master/TSQL/Project-Step-7) .pdf
+1. [Concept Page](#concept)
 2. [Use Case Diagram UML](#use-case-diagram)
 3. [Wireframe](#wireframe)
 4. [Entity Relationship Diagram](#erd)
@@ -11,6 +10,9 @@
 7. [Solution File](https://github.com/gowebUSA/O-MAF) External Link
 8. [Sample Images](#sample-images)
 
+## Concept
+![Concept](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/prototype/images/Concept.png)
+You can also g to the concept page [here](https://github.com/gowebUSA/MSSA-Project/tree/master/TSQL/Project-Step-7).
 ## Use Case Diagram
 ![UML](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/Case%20UML.png)
 <br />
