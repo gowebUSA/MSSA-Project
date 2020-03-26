@@ -38,7 +38,6 @@
 ![Thank You Image](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/prototype/ThankYouPage.png)
 - Initiate Discrepancy Image <br />
 ![Initiate Discrepancy Image](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/prototype/InitiateDisc2.png)
-<br />
 
 [Top](#table-of-contents)
 
