@@ -1,4 +1,4 @@
-# O-MAF Project Solution
+# Online - Maintenance Action Forms (O-MAF)
 
 ## Table Of Contents
 1. [Concept](#concept)
