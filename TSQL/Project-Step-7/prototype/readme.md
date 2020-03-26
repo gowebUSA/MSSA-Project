@@ -5,14 +5,14 @@
 2. [Use Case Diagram UML](#use-case-diagram)
 3. [Wireframe](#wireframe)
 4. [Entity Relationship Diagram](#erd)
-5. [SQL File Scripts](https://github.com/gowebUSA/MSSA-Project/blob/master/T-SQL/o_maf.sql) .pdf
+5. [SQL File Scripts](#sql-scripts)
 6. [Requirement List and RTM.pdf](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/Requirement%20List%20and%20RTM.pdf) .pdf
 7. [Solution File](https://github.com/gowebUSA/O-MAF) External Link
 8. [Sample Images](#sample-images)
 
 ## Concept
 ![Concept](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/prototype/images/Concept.png)
-- You can also log to the concept page [here](https://github.com/gowebUSA/MSSA-Project/tree/master/TSQL/Project-Step-7).
+- You can also check the concept page [here](https://github.com/gowebUSA/MSSA-Project/tree/master/TSQL/Project-Step-7).
 
 [Top](#table-of-contents)
 ## Use Case Diagram
@@ -31,6 +31,7 @@
 [Top](#table-of-contents)
 ## SQL Scripts
 ![SQL Scripts](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/prototype/images/SQL1-7.png)
+- You can also see the full SQL scripts [here](https://github.com/gowebUSA/MSSA-Project/blob/master/T-SQL/o_maf.sql)
 <br />
 [Top](#table-of-contents)
 ## Sample Images:
