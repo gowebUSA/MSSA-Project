@@ -12,7 +12,7 @@
 
 ## Concept
 ![Concept](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/prototype/images/Concept.png)
-You can also g to the concept page [here](https://github.com/gowebUSA/MSSA-Project/tree/master/TSQL/Project-Step-7).
+- You can also g to the concept page [here](https://github.com/gowebUSA/MSSA-Project/tree/master/TSQL/Project-Step-7).
 <br />
 [Top](#table-of-contents)
 ## Use Case Diagram
