@@ -29,6 +29,10 @@
 ![ERD](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/prototype/images/O-MAF%20ERD.png)
 <br />
 [Top](#table-of-contents)
+## SQL Scripts
+![SQL Scripts](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/prototype/images/SQL1-7.png)
+<br />
+[Top](#table-of-contents)
 ## Sample Images:
 - Welcome Page Image <br />
 ![Welcome Page Image](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/prototype/WelcomePage2.png)
