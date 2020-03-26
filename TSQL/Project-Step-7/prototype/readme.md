@@ -31,7 +31,7 @@
 [Top](#table-of-contents)
 ## SQL Scripts
 ![SQL Scripts](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/prototype/images/SQL1-7.png)
-- You can also see the full SQL scripts [here](https://github.com/gowebUSA/MSSA-Project/blob/master/T-SQL/o_maf.sql)
+- You can also see the full SQL scripts [here](https://github.com/gowebUSA/MSSA-Project/blob/master/T-SQL/o_maf.sql).
 
 [Top](#table-of-contents)
 ## Sample Images:
