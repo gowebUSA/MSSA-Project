@@ -48,8 +48,9 @@ Using O MAF will enable maintenance controllers to effectively manage all MAFs a
 - Logged In Thank You Image <br />
 ![Thank You Image](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/prototype/ThankYouPage.png)
 - Initiate Discrepancy Image <br />
-![Initiate Discrepancy Image](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/prototype/InitiateDisc2.png)
-
+![Initiate Discrepancy Image](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/prototype/InitiateDisc2.png)<br />
 [Top](#table-of-contents)
+
+You can also see the GitHub sample page at [gowebusa.github.io/O-MAF](https://gowebusa.github.io/O-MAF/).
 
 
