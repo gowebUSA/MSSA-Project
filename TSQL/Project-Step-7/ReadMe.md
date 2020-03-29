@@ -1,4 +1,4 @@
-[Back to prototype](https://github.com/gowebUSA/MSSA-Project/tree/master/TSQL/Project-Step-7/prototype#table-of-contents)
+[Back to prototype](https://github.com/gowebUSA/MSSA-Project/tree/master/TSQL/Project-Step-7/prototype#online---maintenance-action-forms-o-maf)
 ## O-MAF Project
 ![O-MAF Concept](O-MAF-concept.png)
 Using O MAF will enable maintenance controllers to
@@ -16,9 +16,9 @@ Green Belt.
 - [X] [5. Requirement List and RTM](Requirement%20List%20and%20RTM.pdf)- .pdf
 - [X] [6. O-MAF SRS](O-MAF%20srs.pdf)- .pdf
 - [X] [7. O-MAF SQL Queries](https://github.com/gowebUSA/MSSA-Project/blob/master/T-SQL/o_maf.sql) - .sql
-- [X] [8. Prototype](https://github.com/gowebUSA/MSSA-Project/tree/master/TSQL/Project-Step-7/prototype)
+- [X] [8. Prototype](https://github.com/gowebUSA/MSSA-Project/tree/master/TSQL/Project-Step-7/prototype#online---maintenance-action-forms-o-maf)
 
 ### User Case UML
 ![User Case Diagram UML](Case%20UML.png)
 
-[Back to prototype](https://github.com/gowebUSA/MSSA-Project/tree/master/TSQL/Project-Step-7/prototype#table-of-contents)
+[Back to prototype](https://github.com/gowebUSA/MSSA-Project/tree/master/TSQL/Project-Step-7/prototype#online---maintenance-action-forms-o-maf)
