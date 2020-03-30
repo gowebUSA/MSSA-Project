@@ -11,3 +11,7 @@ Ref: https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-
 <br />/[Controller]/[ActionName]/[Parameters]
 
 Credits: Some images from this project are from Microsoft PowerPoint template.
+
+## Important codes:
+1. dotnet ef migrations add Initial<br />
+[ASP page 214]
