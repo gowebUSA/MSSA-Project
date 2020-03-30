@@ -9,4 +9,5 @@ New update will be coming soon. I will apply MvcMovie App to O-MAF as baseline.
 
 Ref: https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-mvc?view=aspnetcore-3.1&tabs=visual-studio
 <br />[Controller]/[ActionName]/[Parameters]
+
 Credits: Some images from this project are from Microsoft PowerPoint template.
