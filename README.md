@@ -17,3 +17,7 @@ Credits: Some images from this project are from Microsoft PowerPoint template.
 2. The default URL routing logic used by MVC uses a format like this to determine what code to invoke:
 <br />[[/[Controller]/[ActionName]/[Parameters]](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/adding-controller?view=aspnetcore-3.1&tabs=visual-studio#add-a-controller)]
 <br />The routing format is set in the Configure method in Startup.cs file but modified on ANCM2 page 230.
+
+### Log
+1. 200330, Installed MVC.
+2. 
