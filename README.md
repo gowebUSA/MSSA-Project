@@ -19,5 +19,5 @@ Credits: Some images from this project are from Microsoft PowerPoint template.
 <br />The routing format is set in the Configure method in Startup.cs file but modified on ANCM2 page 230.
 
 ### Log
-1. 200330, Installed MVC.
+1. 200330, Installed MVC. Finishes Add a Controller.
 2. 
