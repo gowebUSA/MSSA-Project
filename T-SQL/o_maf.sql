@@ -4,7 +4,7 @@ use o_maf
 ------------------------------------------------------------------------------
 --Aircraft Table
 ------------------------------------------------------------------------------
---drop table if exists acft
+drop table if exists acft
 create table 
     acft(
     id int IDENTITY(1, 1),
@@ -12,8 +12,9 @@ create table
     typeAcft varchar(4),           --
     dircm bit,				-- Yes (1) or No (0)
     nomA varchar(5),                --  
-    orgCd varchar(3)		      --GC7
-    )
+    orgCd varchar(3),		      --GC7
+    mcn varchar(9) foreign key references discrepancy(mcn) 
+);
 ------------------------------------------------------------------------------
 insert into acft (modex, typeAcft, dircm, nomA, orgCd)
 values 
@@ -33,7 +34,7 @@ select * from acft
 ------------------------------------------------------------------------------
 --Personnel Table
 ------------------------------------------------------------------------------
---drop table if exists personnel
+drop table if exists personnel
 create table
     personnel(
     id int IDENTITY(1, 1),
@@ -44,14 +45,15 @@ create table
     qual varchar(3),
     pin int,             --must be an authentication key
     shop int,
-    orgCd varchar(3),
+    orgCd varchar(3)		  --had a lot of constraints.
+);
     --Dependencies: 
     --discrepancy table
     --InPro table
-    )
+    
 
-alter table personnel
-alter column aRank varchar(5)
+--alter table personnel
+--alter column aRank varchar(5)
 ------------------------------------------------------------------------------
 insert into personnel (logId, aRank, fName, lName, qual, pin, shop,  orgCd)
 values
@@ -66,7 +68,7 @@ select * from personnel
 ------------------------------------------------------------------------------
 --Technical Directive Table
 ------------------------------------------------------------------------------
---DROP TABLE IF EXISTS td
+DROP TABLE IF EXISTS td
 create table
     td(
     id int IDENTITY(1, 1) unique,
@@ -76,11 +78,12 @@ create table
     am int,
     rev varchar(1),
     pt int,
-    tdDesc varchar(255)
-    )
+    tdDesc varchar(255),
+    mcn varchar(9) foreign key references discrepancy(mcn)
+);
 
-alter table td
-alter column tdDesc varchar(255)
+--alter table td
+--alter column tdDesc varchar(255)
 ------------------------------------------------------------------------------
 insert into td(tdCd, tdBasic, intrm, am, rev, pt, tdDesc)
 values
@@ -96,14 +99,16 @@ select * from td
 ------------------------------------------------------------------------------
 --Work Unit Code Table
 ------------------------------------------------------------------------------
---DROP TABLE IF EXISTS wucNum
+DROP TABLE IF EXISTS wucNum
 create table
     wucNum(
-    id int IDENTITY(1, 1),
+    Id int IDENTITY(1, 1),
+    DiscrepancyId int,
     wucNo int PRIMARY KEY,
     wucDesc varchar (30),
-    Tracked varchar(3)
-    )
+    Tracked varchar(3),
+    mcn varchar(9) foreign key references discrepancy(mcn)
+);
 ------------------------------------------------------------------------------
 insert into wucNum (wucNo, wucDesc, Tracked)
 values 
@@ -122,14 +127,14 @@ select * from wucNum
 ------------------------------------------------------------------------------
 --In Process Table
 ------------------------------------------------------------------------------
---DROP TABLE IF EXISTS inPro
+DROP TABLE IF EXISTS inPro
 create table
     inPro(
     InProId int identity,
     inProDtTm datetime,
     inProDesc varchar(255),
     Inspector varchar(10) foreign key references personnel(logId) not null
-    )
+);
 ------------------------------------------------------------------------------
 insert into inPro (inProDtTm, inProDesc, Inspector)
 values 
@@ -144,13 +149,14 @@ set inProDtTm = '2020-02-05 12:17:00 pm'
 where InProId = 5;
 
 select * from inPro
+
 ------------------------------------------------------------------------------
 --Discrepancy Table
 ------------------------------------------------------------------------------
---drop table if exists discrepancy
+drop table if exists discrepancy
 create table
     discrepancy(
-    id int IDENTITY(1, 1),
+    Id int IDENTITY(1, 1),
     mcn varchar(9)  not null UNIQUE,
     jcn varchar(9) UNIQUE,
     orgCd varchar(3),
@@ -167,15 +173,16 @@ create table
     cfReq bit,
     qaReq bit,
     wucNo int
+);
     --Dependencies:
     --parts table
     --CorrAction table
-    )
+    
 
 ------------------------------------------------------------------------------
 --Parts Table
 ------------------------------------------------------------------------------
---DROP TABLE IF EXISTS parts
+DROP TABLE IF EXISTS parts
 create table
     parts(
     partId int IDENTITY(1, 1) primary key,
@@ -184,15 +191,15 @@ create table
     serialNo varchar(20) UNIQUE not null,
     --mcn varchar(9) foreign key references discrepancy(mcn),
     Tracked varchar(3)
-    )
+);
 
 ------------------------------------------------------------------------------
 --Corrective Action Table
 ------------------------------------------------------------------------------
---DROP TABLE IF EXISTS CorrAction
+DROP TABLE IF EXISTS CorrAction
 create table
     CorrAction(
-    id int IDENTITY(1, 1),
+    Id int IDENTITY(1, 1),
     --mcn varchar(9) foreign key references discrepancy(mcn),
     partId int foreign key references parts(partId),
     correctiveAction varchar(255),
@@ -212,7 +219,7 @@ create table
     VerifyMDS varchar(10) foreign key references personnel(logId) not null, --Put login Id
     InProId int
 
-    )
+);
 
 
 --TODO: Deciding if I would create a separate table for each or just complie 
@@ -222,7 +229,7 @@ create table
 /*
 create table
     DataCode(
-    id int IDENTITY(1, 1),
+    Id int IDENTITY(1, 1),
     MalCd int,
     MalCdDesc varchar,
     ActTk varchar,
