@@ -6,9 +6,10 @@
 3. [Wireframe](#wireframe)
 4. [Entity Relationship Diagram](#erd)
 5. [SQL File Scripts](#sql-scripts)
-6. [Requirement List and RTM](#requirement-traceability-matrix)
-7. [Solution File](https://github.com/gowebUSA/O-MAF) External Link
-8. [Sample Images](#sample-images)
+6. [SQL Diagram](#sql-diagram)
+7. [Requirement List and RTM](#requirement-traceability-matrix)
+8. [Solution File](https://github.com/gowebUSA/O-MAF) External Link
+9. [Sample Images](#sample-images)
 
 ## Concept
 ![Concept](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/prototype/images/Concept.png)
@@ -32,7 +33,10 @@ Using O MAF will enable maintenance controllers to effectively manage all MAFs a
 [Top](#table-of-contents)
 ## SQL Scripts
 ![SQL Scripts](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/prototype/images/SQL1-7.png)
-- You can also see the full SQL scripts [here](https://github.com/gowebUSA/MSSA-Project/blob/master/T-SQL/o_maf.sql).
+- You can also see the full updated SQL scripts [here](https://github.com/gowebUSA/MSSA-Project/blob/master/T-SQL/o_maf.sql).
+
+## SQL Diagram
+![SQL Diagram](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/prototype/images/OMaf-Sql-Diagram-200402.png)
 
 [Top](#table-of-contents)
 ## Requirement Traceability Matrix
