@@ -35,6 +35,7 @@ Using O MAF will enable maintenance controllers to effectively manage all MAFs a
 ![SQL Scripts](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/prototype/images/SQL1-7.png)
 - You can also see the full updated SQL scripts [here](https://github.com/gowebUSA/MSSA-Project/blob/master/T-SQL/o_maf.sql).
 
+[Top](#table-of-contents)
 ## SQL Diagram
 ![SQL Diagram](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/prototype/images/OMaf-Sql-Diagram-200402.png)
 
