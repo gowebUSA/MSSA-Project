@@ -8,7 +8,7 @@
 5. [SQL File Scripts](#sql-scripts)
 6. [SQL Diagram](#sql-diagram)
 7. [Requirement List and RTM](#requirement-traceability-matrix)
-8. [Solution File](https://github.com/gowebUSA/O-MAF/tree/master/O-MAF) External Link
+8. [Solution File](https://github.com/gowebUSA/O-MAF/tree/master/OMAF) External Link
 9. [Sample Images](#sample-images)
 
 ## Concept
