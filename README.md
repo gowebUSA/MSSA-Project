@@ -20,6 +20,13 @@ Credits: Some images from this project are from Microsoft PowerPoint template.
 
 ### TODO:
 - [ ] Use SportStore Add to cart when an inspector is ready to sign off MAFs.
+- [ ] Create more Tables for:
+- Personnel
+- Parts
+- Discrepacy
+- Complete
+- Maintenance Control Remarks
+- Contingency Process
 
 ### Log
 1. 200330, Installed MVC. Finishes Add a Controller.
