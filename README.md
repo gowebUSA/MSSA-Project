@@ -27,6 +27,7 @@ Credits: Some images from this project are from Microsoft PowerPoint template.
 - Complete
 - Maintenance Control Remarks
 - Contingency Process
+- [ ] Implement security protocol for SQL database appsettings. See ISTA 421 - [Week 3 Notes](https://erau.instructure.com/courses/111202/pages/week-3-notes?module_item_id=6301983). You will need credentials to ERAU.
 
 ### Log
 1. 200330, Installed MVC. Finishes Add a Controller.
