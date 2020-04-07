@@ -19,7 +19,7 @@ Credits: Some images from this project are from Microsoft PowerPoint template.
 <br />The routing format is set in the Configure method in Startup.cs file but modified on ANCM2 page 230.
 
 ### TODO:
-[ ] Use SportStore Add to cart when an inspector is ready to sign off MAFs.
+- [ ] Use SportStore Add to cart when an inspector is ready to sign off MAFs.
 
 ### Log
 1. 200330, Installed MVC. Finishes Add a Controller.
