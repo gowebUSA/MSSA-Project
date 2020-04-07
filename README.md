@@ -1,8 +1,6 @@
 # MSSA-Project
-
-# O-MAF Project
 MSSAS7 repository for projects in C#, T-SQL, and ASP.NET.
-
+## O-MAF Project
 Ready for review. <br />
 Go to [Prototype](https://github.com/gowebUSA/MSSA-Project/tree/master/TSQL/Project-Step-7/prototype#online---maintenance-action-forms-o-maf) or see the live website at https://omaf.azurewebsites.net.
 
