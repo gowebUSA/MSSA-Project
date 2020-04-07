@@ -41,6 +41,6 @@ Credits: Some images from this project are from Microsoft PowerPoint template.
  - Resource: sd7CadTemp
  - Updated the Disclaimer and Privacy statements, copied from usmc.mil and DoD websites.
 3. 200407, Fixes:
-- Menu/category selection on Views/Shared/Components/NavigationMenu/Default.cshtml.
+- Menu/category selection on Views/Shared/Components/NavigationMenu/Default.cshtml. Started from ANCM2 page 244 and traced all using statements (files).
 - Changed favicon.ico under wwwroot folder.
  
