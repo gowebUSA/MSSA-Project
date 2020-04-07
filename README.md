@@ -20,7 +20,7 @@ Credits: Some images from this project are from Microsoft PowerPoint template.
 
 ### Log
 1. 200330, Installed MVC. Finishes Add a Controller.
-2. 200406. Collections:
+2. 200406, Collections:
   - Connected to SQL Server inside VM on Azure
   - Deployed website to Azure, sd7CadTempVM as computer name.
   - Resource: sd7CadTemp
