@@ -33,6 +33,6 @@ Credits: Some images from this project are from Microsoft PowerPoint template.
 1. 200330, Installed MVC. Finishes Add a Controller.
 2. 200406, Collections:
  - Connected to SQL Server inside VM on Azure. Deploy SQL Server on Azure (Windows) VM. Currently unable to deploy Azure database server resources. This is a temporary, tested workaround. See Dan's solution at https://github.com/uid100/Deploy-SQLServer-on-Azure-VM.
- - Deployed website to Azure, sd7CadTempVM as computer name. The link for MSSA students for Azure is http://aka.ms/startedu. Followed this [insructions from Dan Sullivan](https://github.com/uid100/Publish-AppService-to-Azure) as well.
+ - Deployed website to Azure, sd7CadTempVM as computer name. The link for MSSA students for Azure is http://aka.ms/startedu. Followed this [insructions](https://github.com/uid100/Publish-AppService-to-Azure) from Dan Sullivan as well.
  - Resource: sd7CadTemp
 3. 200407, Changed favicon.ico under wwwroot folder.
