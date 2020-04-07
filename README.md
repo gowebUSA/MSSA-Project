@@ -24,4 +24,4 @@ Credits: Some images from this project are from Microsoft PowerPoint template.
  - Connected to SQL Server inside VM on Azure
  - Deployed website to Azure, sd7CadTempVM as computer name.
  - Resource: sd7CadTemp
-3.   
+3. 200407, Changed favicon.ico under wwwroot folder.
