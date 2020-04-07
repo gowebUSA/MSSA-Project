@@ -14,7 +14,7 @@
 ## Concept
 ![Concept](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/prototype/images/Concept.png)
 
-Using O MAF will enable maintenance controllers to effectively manage all MAFs and set priorities. Efficiency will be increased by 67% based on previous studies done by Certified Lean Six Sigma Green Belt. You can also check the concept page [here](https://github.com/gowebUSA/MSSA-Project/tree/master/TSQL/Project-Step-7) or visit the live site at [omaf.azurewebsites.net](https://omaf.azurewebsites.net).
+Using O MAF will enable maintenance controllers to effectively manage all MAFs and set priorities. Efficiency will be increased by 67% based on previous studies done by Certified Lean Six Sigma Green Belt. You can also check the concept page [here](https://github.com/gowebUSA/MSSA-Project/tree/master/TSQL/Project-Step-7) or visit the live site at https://omaf.azurewebsites.net.
 
 [Top](#online---maintenance-action-forms-o-maf)
 ## Use Case Diagram
