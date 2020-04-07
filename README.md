@@ -18,7 +18,7 @@ Credits: Some images from this project are from Microsoft PowerPoint template.
 <br />[[/[Controller]/[ActionName]/[Parameters]](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/adding-controller?view=aspnetcore-3.1&tabs=visual-studio#add-a-controller)]
 <br />The routing format is set in the Configure method in Startup.cs file but modified on ANCM2 page 230.
 1. Use Microsoft.EntityFramework.SqlServer version 3.1.1
-1. Remove all comments inside @foreach statement under Views/Shared/Components/NavigationMenu/Default.cshtml or else, the menu selection will not work.
+1. Remove all comments inside @foreach statement under Views/Shared/Components/NavigationMenu/Default.cshtml or else, the menu selection will not work. ANCM2 page 214
 
 
 ### TODO:
