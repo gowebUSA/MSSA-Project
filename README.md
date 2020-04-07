@@ -19,6 +19,7 @@ Credits: Some images from this project are from Microsoft PowerPoint template.
 <br />The routing format is set in the Configure method in Startup.cs file but modified on ANCM2 page 230.
 
 ### TODO:
+- [ ] Add [search](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/search?view=aspnetcore-3.1) bar.
 - [ ] Use SportStore Add to cart when an inspector is ready to sign off MAFs.
 - [ ] Create more Tables for:
 - Personnel
