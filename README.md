@@ -33,7 +33,7 @@ Credits: Some images from this project are from Microsoft PowerPoint template.
 - [ ] Implement security protocol for SQL database appsettings.json file. See ISTA 421 - [Week 3 Notes](https://erau.instructure.com/courses/111202/pages/week-3-notes?module_item_id=6301983). You will need credentials to ERAU. Or see the short version [here](https://github.com/gowebUSA/MSSA-Project/blob/master/files/Week%203%20Notes2.pdf).
 
 ### LOG
-1. 200330, Installed MVC. Finishes Add a Controller.
+1. 200330, Installed MVC. Finishes Added Controller, View, Model, Database, and Controller/Actions/Views.
 2. 200406, Collections:
  - Connected to SQL Server inside VM on Azure. Deploy SQL Server on Azure (Windows) VM. Currently unable to deploy Azure database server resources. This is a temporary, tested workaround. See Dan's solution at https://github.com/uid100/Deploy-SQLServer-on-Azure-VM.
  - Deployed website to Azure, sd7CadTempVM as computer name. The link for MSSA students for Azure is http://aka.ms/startedu. Followed this [insructions](https://github.com/uid100/Publish-AppService-to-Azure) from Dan Sullivan as well.
