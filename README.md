@@ -39,6 +39,14 @@ Credits: Some images from this project are from Microsoft PowerPoint template.
 1. Use Microsoft.EntityFramework.SqlServer version 3.1.1
 1. Remove all comments inside @foreach statement under Views/Shared/Components/NavigationMenu/Default.cshtml or else, the menu selection will not work. ANCM2 page 214
 1. Remove the connection strings on your appsettings.json file.
+<br />
+`
+# ignore appsettings configuration files
+**/appsettings.json
+**/appsettings.development.json
+**/appsettings.staging.json
+**/appsettings.production.json
+`
 
 
 ### TODO:
@@ -64,13 +72,3 @@ Credits: Some images from this project are from Microsoft PowerPoint template.
  - Updated the Disclaimer and Privacy statements, copied from usmc.mil and DoD websites.
 3. 200407, Changed favicon.ico under wwwroot folder.
 4. 200408, Check the submission requirements for [Project Step 12 here](https://github.com/gowebUSA/MSSA-Project/tree/master/ProjectSteps/ProjectStep12).
-
-I think you should use an
-`<addr>` element here instead. 
-
-`
-here again
-again
-again
-again
-`
