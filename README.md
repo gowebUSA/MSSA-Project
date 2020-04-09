@@ -50,7 +50,7 @@ Credits: Some images from this project are from Microsoft PowerPoint template.
 - [ ] Add [search](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/search?view=aspnetcore-3.1) bar.
 - [ ] Use SportStore Add to cart when an inspector is ready to sign off MAFs.
 - [ ] Create more Tables for:
-- Personnel
+> Personnel
 - Parts
 - Discrepacy
 - Complete
