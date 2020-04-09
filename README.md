@@ -66,4 +66,4 @@ Credits: Some images from this project are from Microsoft PowerPoint template.
 4. 200408, Check the submission requirements for [Project Step 12 here](https://github.com/gowebUSA/MSSA-Project/tree/master/ProjectSteps/ProjectStep12).
 
 I think you should use an
-`<addr>` element here instead.
+`<addr>` element here instead. 'here again'
