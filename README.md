@@ -41,7 +41,7 @@ Credits: Some images from this project are from Microsoft PowerPoint template.
 1. Remove the connection strings on your appsettings.json file.
 <br />
 `
-# ignore appsettings configuration files
+#ignore appsettings configuration files
 **/appsettings.json
 **/appsettings.development.json
 **/appsettings.staging.json
