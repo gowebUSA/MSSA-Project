@@ -22,7 +22,7 @@ Credits: Some images from this project are from Microsoft PowerPoint template.
 - [x] Project Step 9 - Prototype
 - [x] Project Step 10 - In-Process Review (IPR)
 - [x] Project Step 11 - Data Model class implementation (EF)
-- [ ] [Project Step 12](https://github.com/gowebUSA/MSSA-Project/tree/master/ProjectStep12) - DB Integration
+- [ ] [Project Step 12](https://github.com/gowebUSA/MSSA-Project/tree/master/ProjectSteps/ProjectStep12) - DB Integration
 - [ ] Project Step 13 - Sprint Planning
 - [ ] Project Step 14 - Sprint Review
 - [ ] Project Step 15 - Preliminary Product Delivery
@@ -62,4 +62,4 @@ Credits: Some images from this project are from Microsoft PowerPoint template.
  - Resource: sd7CadTemp
  - Updated the Disclaimer and Privacy statements, copied from usmc.mil and DoD websites.
 3. 200407, Changed favicon.ico under wwwroot folder.
-4. 200408, Check the submission requirements for [Project Step 12 here](https://github.com/gowebUSA/MSSA-Project/tree/master/ProjectStep12).
+4. 200408, Check the submission requirements for [Project Step 12 here](https://github.com/gowebUSA/MSSA-Project/tree/master/ProjectSteps/ProjectStep12).
