@@ -40,4 +40,4 @@ Credits: Some images from this project are from Microsoft PowerPoint template.
  - Resource: sd7CadTemp
  - Updated the Disclaimer and Privacy statements, copied from usmc.mil and DoD websites.
 3. 200407, Changed favicon.ico under wwwroot folder.
-4. 200408, Project Step 12.
+4. 200408, Check the submission requirements for Project Step 12 [here](https://github.com/gowebUSA/MSSA-Project/tree/master/ProjectStep12).
