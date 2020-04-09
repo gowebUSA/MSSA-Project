@@ -11,10 +11,10 @@ Ref: https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-
 Credits: Some images from this project are from Microsoft PowerPoint template.
 
 ### Project Steps
-- [ ] Project Step 1 - 
-- [ ] Project Step 2 - 
-- [ ] Project Step 3 - 
-- [ ] Project Step 4 - 
+- [x] Project Step 1 - 
+- [x] Project Step 2 - 
+- [x] Project Step 3 - 
+- [x] Project Step 4 - 
 - [ ] Project Step 5 - 
 - [ ] Project Step 6 - 
 - [ ] Project Step 7 - 
