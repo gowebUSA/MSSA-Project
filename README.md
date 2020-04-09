@@ -48,7 +48,7 @@ Project Management [Link](https://github.com/users/gowebUSA/projects/1)
 
 
 ### TODO:
-- [ ] Add [search](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/search?view=aspnetcore-3.1) bar.
+- [ ] Add a [search](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/search?view=aspnetcore-3.1) bar.
 - [ ] Use SportStore Add to cart when an inspector is ready to sign off MAFs.
 - [ ] Create more Tables for:
   * Personnel
