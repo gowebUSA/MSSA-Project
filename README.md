@@ -11,24 +11,24 @@ Ref: https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-
 Credits: Some images from this project are from Microsoft PowerPoint template.
 
 ### Project Steps
-- [x] Project Step 1 - Concept Investigation
-- [x] Project Step 2 - Project Selection
-- [x] Project Step 3 - Presentation/Peer Review
-- [x] Project Step 4 - DB Design
-- [x] Project Step 5 - DB Implementation
-- [x] Project Step 6 - UI/UX Wireframe(s)
-- [x] Project Step 7 - Requirements, Use Case
-- [x] Project Step 8 - Test Planning
-- [x] Project Step 9 - Prototype
-- [x] Project Step 10 - In-Process Review (IPR)
+- [x] Project Step 1 C# - Concept Investigation
+- [x] Project Step 2 C# - Project Selection
+- [x] Project Step 3 C# - Presentation/Peer Review
+- [x] Project Step 4 SQL - DB Design
+- [x] Project Step 5 SQL - DB Implementation
+- [x] Project Step 6 SQL - UI/UX Wireframe(s)
+- [x] Project Step 7 MVC - Requirements, Use Case
+- [x] Project Step 8 MVC - Test Planning
+- [x] Project Step 9 MVC - Prototype
+- [x] Project Step 10 Azure - In-Process Review (IPR)
 - [x] Project Step 11 - Data Model class implementation (EF)
-- [ ] [Project Step 12](https://github.com/gowebUSA/MSSA-Project/tree/master/ProjectSteps/ProjectStep12) - DB Integration
-- [ ] Project Step 13 - Sprint Planning
-- [ ] Project Step 14 - Sprint Review
-- [ ] Project Step 15 - Preliminary Product Delivery
-- [ ] Project Step 16 - CSS & Responsive Design
-- [ ] Project Step 17 - TDD/Updated Test Report
-- [ ] Project Step 18 - Final Project Review
+- [ ] [Project Step 12 Azure](https://github.com/gowebUSA/MSSA-Project/tree/master/ProjectSteps/ProjectStep12) - DB Integration
+- [ ] Project Step 13 Azure - Sprint Planning
+- [ ] Project Step 14 Azure - Sprint Review
+- [ ] Project Step 15 Azure - Preliminary Product Delivery
+- [ ] Project Step 16 Azure - CSS & Responsive Design
+- [ ] Project Step 17 Azure - TDD/Updated Test Report
+- [ ] Project Step 18 Azure - Final Project Review
 
 ### Important Notes:
 1. [dotnet ef migrations add Initial] using cmd under the project folder on ASP.NET Core MVC 2 (ANCM2) page 214.
