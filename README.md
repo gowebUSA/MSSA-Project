@@ -22,7 +22,7 @@ Credits: Some images from this project are from Microsoft PowerPoint template.
 - [ ] Project Step 9 - 
 - [ ] Project Step 10 - 
 - [ ] Project Step 11 - 
-- [ ] Project Step 12 - 
+- [ ] [Project Step 12](https://github.com/gowebUSA/MSSA-Project/tree/master/ProjectStep12) - 
 - [ ] Project Step 13 - 
 - [ ] Project Step 14 - 
 - [ ] Project Step 15 - 
