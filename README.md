@@ -11,6 +11,7 @@ Ref: https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-
 Credits: Some images from this project are from Microsoft PowerPoint template.
 
 ### Project Steps
+Project Management [Link](https://github.com/users/gowebUSA/projects/1)
 - [x] Project Step 1 C# - Concept Investigation
 - [x] Project Step 2 C# - Project Selection
 - [x] Project Step 3 C# - Presentation/Peer Review
