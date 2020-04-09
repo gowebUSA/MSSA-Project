@@ -34,7 +34,7 @@ Credits: Some images from this project are from Microsoft PowerPoint template.
 1. [dotnet ef migrations add Initial] using cmd under the project folder on ASP.NET Core MVC 2 (ANCM2) page 214.
 <br />Other method is on [ASP.NET Core 3.1 Tutorial](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/adding-model?view=aspnetcore-3.1&tabs=visual-studio#scaffold-movie-pages) by using Power Shell.
 1. The default URL routing logic used by MVC uses a format like [this](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/adding-controller?view=aspnetcore-3.1&tabs=visual-studio#add-a-controller) to determine what code to invoke:
-<br />/`[Controller]/[ActionName]/[Parameters`
+<br />`/[Controller]/[ActionName]/[Parameters`
 <br />The routing format is set in the Configure method in Startup.cs file but modified on ANCM2 page 230.
 1. Use Microsoft.EntityFramework.SqlServer version 3.1.1
 1. Remove all comments inside @foreach statement under Views/Shared/Components/NavigationMenu/Default.cshtml or else, the menu selection will not work. ANCM2 page 214
