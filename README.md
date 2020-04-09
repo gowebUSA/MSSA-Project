@@ -40,3 +40,4 @@ Credits: Some images from this project are from Microsoft PowerPoint template.
  - Resource: sd7CadTemp
  - Updated the Disclaimer and Privacy statements, copied from usmc.mil and DoD websites.
 3. 200407, Changed favicon.ico under wwwroot folder.
+4. Project Step 12.
