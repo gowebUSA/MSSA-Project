@@ -50,12 +50,12 @@ Credits: Some images from this project are from Microsoft PowerPoint template.
 - [ ] Add [search](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/search?view=aspnetcore-3.1) bar.
 - [ ] Use SportStore Add to cart when an inspector is ready to sign off MAFs.
 - [ ] Create more Tables for:
-* Personnel
-* Parts
-* Discrepacy
-* Complete
-* Maintenance Control Remarks
-* Contingency Process
+ * Personnel
+ * Parts
+ * Discrepacy
+ * Complete
+ * Maintenance Control Remarks
+ * Contingency Process
 - [ ] Implement security protocol for SQL database appsettings.json file. See ISTA 421 - [Week 3 Notes](https://erau.instructure.com/courses/111202/pages/week-3-notes?module_item_id=6301983). You will need credentials to ERAU. Or see the short version [here](https://github.com/gowebUSA/MSSA-Project/blob/master/files/Week%203%20Notes2.pdf).
 - [ ] Create Project Steps Lists.
 - [ ] Finish Project Page.
