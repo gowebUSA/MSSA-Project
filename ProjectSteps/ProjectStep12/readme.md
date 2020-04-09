@@ -1,4 +1,4 @@
-# Project Step 12 Submission
+# Project Step 12 Azure
 
 The project database tables and model classes are connected. Using code, connect to the database and create a controller and a simple view which displays data read from your tables and enables data taken from a simple user interface and storing the new or modified data back to the database.
 
