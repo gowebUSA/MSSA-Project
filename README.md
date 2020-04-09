@@ -38,6 +38,7 @@ Credits: Some images from this project are from Microsoft PowerPoint template.
 <br />The routing format is set in the Configure method in Startup.cs file but modified on ANCM2 page 230.
 1. Use Microsoft.EntityFramework.SqlServer version 3.1.1
 1. Remove all comments inside @foreach statement under Views/Shared/Components/NavigationMenu/Default.cshtml or else, the menu selection will not work. ANCM2 page 214
+1. Remove the connection strings on your appsettings.json file.
 
 
 ### TODO:
