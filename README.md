@@ -71,4 +71,4 @@ Project Management [Link](https://github.com/users/gowebUSA/projects/1)
   * Resource: sd7CadTemp
   * Updated the Disclaimer and Privacy statements, copied from usmc.mil and DoD websites.
 3. 200407, Changed favicon.ico under wwwroot folder.
-4. 200408, Check the submission requirements for [Project Step 12 here](https://github.com/gowebUSA/MSSA-Project/tree/master/ProjectSteps/ProjectStep12).
+4. 200408, Checked and created the submission requirements for [Project Step 12 here](https://github.com/gowebUSA/MSSA-Project/tree/master/ProjectSteps/ProjectStep12). Since Azure SQL Database started working again, I created a new database in Azure `Database Name: sd7omaf`.
