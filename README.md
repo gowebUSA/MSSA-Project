@@ -39,7 +39,7 @@ Project Management [Link](https://github.com/users/gowebUSA/projects/1)
 <br />The routing format is set in the Configure method in Startup.cs file but modified on ANCM2 page 230.
 1. Use Microsoft.EntityFramework.SqlServer version 3.1.1
 1. Remove all comments inside @foreach statement under Views/Shared/Components/NavigationMenu/Default.cshtml or else, the menu selection will not work. ANCM2 page 214
-1. Remove the connection strings on your appsettings.json file by adding this code.<br />
+1. Remove the connection strings on your appsettings.json file by adding this code when [committing to GitHub](https://help.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line).<br />
 `# ignore appsettings configuration files`<br />
 `**/appsettings.json`<br />
 `**/appsettings.development.json`<br />
