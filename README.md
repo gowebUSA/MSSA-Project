@@ -10,6 +10,28 @@ Ref: https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-
 
 Credits: Some images from this project are from Microsoft PowerPoint template.
 
+### Project Steps
+- [ ] Project Step 1 - 
+- [ ] Project Step 2 - 
+- [ ] Project Step 3 - 
+- [ ] Project Step 4 - 
+- [ ] Project Step 5 - 
+- [ ] Project Step 6 - 
+- [ ] Project Step 7 - 
+- [ ] Project Step 8 - 
+- [ ] Project Step 9 - 
+- [ ] Project Step 10 - 
+- [ ] Project Step 11 - 
+- [ ] Project Step 12 - 
+- [ ] Project Step 13 - 
+- [ ] Project Step 14 - 
+- [ ] Project Step 15 - 
+- [ ] Project Step 16 - 
+- [ ] Project Step 17 - 
+- [ ] Project Step 18 - 
+- [ ] Project Step 19 - 
+
+
 ### Important Notes:
 1. [dotnet ef migrations add Initial] using cmd under the project folder on ASP.NET Core MVC 2 (ANCM2) page 214.
 <br />Other method is on [ASP.NET Core 3.1 Tutorial](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/adding-model?view=aspnetcore-3.1&tabs=visual-studio#scaffold-movie-pages) by using Power Shell.
