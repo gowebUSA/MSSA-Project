@@ -58,8 +58,10 @@ Project Management [Link](https://github.com/users/gowebUSA/projects/1)
   * Maintenance Control Remarks
   * Contingency Process
 - [ ] Implement security protocol for SQL database appsettings.json file. See ISTA 421 - [Week 3 Notes](https://erau.instructure.com/courses/111202/pages/week-3-notes?module_item_id=6301983). You will need credentials to ERAU. Or see the short version [here](https://github.com/gowebUSA/MSSA-Project/blob/master/files/Week%203%20Notes2.pdf).
-- [ ] Create Project Steps Lists.
-- [ ] Finish Project Page.
+- [x] Create Project Steps Lists.
+- [ ] Create new SQL Database in Azure 
+  * connect OMAF data to it.
+  * From Azure SQL overview, Allow Azure services and resources to access this server to YES.
 
 ### LOG
 1. 200330, Installed MVC. Finishes Added Controller, View, Model, Database, and Controller/Actions/Views.
