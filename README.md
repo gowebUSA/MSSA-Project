@@ -51,8 +51,8 @@ Credits: Some images from this project are from Microsoft PowerPoint template.
 - [ ] Use SportStore Add to cart when an inspector is ready to sign off MAFs.
 - [ ] Create more Tables for:
  * Personnel
- * Parts
- * Discrepacy
+  * Parts
+   * Discrepacy
  * Complete
  * Maintenance Control Remarks
  * Contingency Process
