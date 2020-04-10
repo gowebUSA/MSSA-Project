@@ -45,7 +45,7 @@ Project Management [Link](https://github.com/users/gowebUSA/projects/1)
 `**/appsettings.development.json`<br />
 `**/appsettings.staging.json`<br />
 `**/appsettings.production.json`
-
+1. When publishing to Azure for the first time, make sure to chose self-contained in the publishing settings.
 
 ### TODO:
 - [ ] Add a [search](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/search?view=aspnetcore-3.1) bar.
