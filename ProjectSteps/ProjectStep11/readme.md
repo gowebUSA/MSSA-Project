@@ -7,9 +7,9 @@ ________________________________________
 Your implementation will focus on the data and processing component. We will focus on user interfaces later.
 ________________________________________
 Database diagrams can be easily created and modified using SQL Server Management Studio as in the example below.
-Step 1. Create the tables and define the key constraints
-•	https://github.com/gowebUSA/MSSA-Project/blob/master/T-SQL/o_maf.sql
-Step 2. Use SSMS to generate the diagram(s)
+<br />Step 1. Create the tables and define the key constraints
+<br />•	https://github.com/gowebUSA/MSSA-Project/blob/master/T-SQL/o_maf.sql
+<br />Step 2. Use SSMS to generate the diagram(s)
  
 Find the database in the Object Explorer, Right-Click Database Diagrams to create the new diagram. Select the tables that you want to include from the database. The Diagram can be modified by dragging the components around within the image.
 ________________________________________
