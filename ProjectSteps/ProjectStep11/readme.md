@@ -25,5 +25,6 @@ Implement a subset of the requirements you have previously identified. You are n
    * Right-click "Database Diagrams" and select "New Database Diagram".
    * Select and Add tables
    * Wait for it to complete and drag the tables to arrange them.
+     * https://github.com/gowebUSA/MSSA-Project/tree/master/TSQL/Project-Step-7/prototype#sql-diagram
 
 
