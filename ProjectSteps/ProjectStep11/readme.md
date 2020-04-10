@@ -20,7 +20,8 @@ Implement a subset of the requirements you have previously identified. You are n
 3.	You should develop an interface in addition to
 4.	the primary data model, which the data model implements.
 5.	You will also create a "Fake" or "Test Double" class which also implements the data interface.
-6.	In addition to your source code, use SSMS to auto-generate a database diagram and attach it to your project documents linked to your README.md as follows:<br />
+6.	In addition to your source code, use SSMS to auto-generate a database diagram and attach it to your project documents linked to your README.md as follows:
+*
 o	Go to Sql Server Management Studio > Object Explorer > Databases > Choose and expand your Database.
 o	Right-click "Database Diagrams" and select "New Database Diagram".
 o	Select and Add tables
