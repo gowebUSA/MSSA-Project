@@ -10,14 +10,17 @@ Database diagrams can be easily created and modified using SQL Server Management
 <br />Step 1. Create the tables and define the key constraints
 <br />•	https://github.com/gowebUSA/MSSA-Project/blob/master/T-SQL/o_maf.sql
 <br />Step 2. Use SSMS to generate the diagram(s)
- 
+<br />•	https://github.com/gowebUSA/MSSA-Project/tree/master/TSQL/Project-Step-7/prototype#sql-diagram
 Find the database in the Object Explorer, Right-Click Database Diagrams to create the new diagram. Select the tables that you want to include from the database. The Diagram can be modified by dragging the components around within the image.
 ________________________________________
 Deliverables
 Implement a subset of the requirements you have previously identified. You are not expected to implement the entire project. When it is ready for review, submit the link to your Github project folder which should point to the structure of your source code and will include
 1.	folders for Models, Views, and Controllers, and
+<br />•	https://github.com/gowebUSA/O-MAF/tree/master/OMAF
 2.	within your Models folder will be C# class files which describe and map to your database table entities.
+<br />•	https://github.com/gowebUSA/O-MAF/blob/master/OMAF/Models/Aircraft.cs
 3.	You should develop an interface in addition to
+<br />•	https://github.com/gowebUSA/O-MAF/blob/master/OMAF/Migrations/20200404064507_InitialCreate.cs
 4.	the primary data model, which the data model implements.
 5.	You will also create a "Fake" or "Test Double" class which also implements the data interface.
 6.	In addition to your source code, use SSMS to auto-generate a database diagram and attach it to your project documents linked to your README.md as follows:
