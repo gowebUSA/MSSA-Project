@@ -11,5 +11,6 @@ The project database tables and model classes are connected. Using code, connect
    * https://omaf.azurewebsites.net/Aircraft
    * ![img](https://github.com/gowebUSA/MSSA-Project/blob/master/ProjectSteps/ProjectStep12/images/2%20Screenshot%20of%20application.png?raw=true)
 3. screenshot of your application demonstrating how the data is collected from the application (a form?)
+   * ![img](https://github.com/gowebUSA/MSSA-Project/blob/master/ProjectSteps/ProjectStep12/images/3%20form.png?raw=true)
 4. application screenshot of the view (from step 2) showing how the data has changed (following step 3)
 5. Upload your source code to Github and update your task list showing project progress!
