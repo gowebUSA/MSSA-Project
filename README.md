@@ -22,7 +22,7 @@ Project Management [Link](https://github.com/users/gowebUSA/projects/1)
 - [x] Project Step 8 MVC - Test Planning
 - [x] Project Step 9 MVC - Prototype
 - [x] Project Step 10 Azure - In-Process Review (IPR)
-- [x] Project Step 11 Azure - Data Model class implementation (EF)
+- [x] [Project Step 11 Azure](https://github.com/gowebUSA/MSSA-Project/tree/master/ProjectSteps/ProjectStep11) - Data Model class implementation (EF)
 - [x] [Project Step 12 Azure](https://github.com/gowebUSA/MSSA-Project/tree/master/ProjectSteps/ProjectStep12) - DB Integration
 - [ ] Project Step 13 Azure - Sprint Planning
 - [ ] Project Step 14 Azure - Sprint Review
