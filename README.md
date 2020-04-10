@@ -67,7 +67,7 @@ Project Management [Link](https://github.com/users/gowebUSA/projects/1)
 1. 200330, Installed MVC. Finishes Added Controller, View, Model, Database, and Controller/Actions/Views.
 2. 200406, Collections:
   * Connected to SQL Server inside VM on Azure. Deploy SQL Server on Azure (Windows) VM. Currently unable to deploy Azure database server resources. This is a temporary, tested workaround. See Dan's solution at https://github.com/uid100/Deploy-SQLServer-on-Azure-VM.
-  * Deployed website to Azure, sd7CadTempVM as computer name. The link for MSSA students for Azure is http://aka.ms/startedu. Followed this [insructions](https://github.com/uid100/Publish-AppService-to-Azure) from Dan Sullivan as well.
+  * Deployed website to Azure, sd7CadTempVM as computer name. The link for MSSA students for Azure is http://aka.ms/startedu. Followed this [insructions](https://github.com/uid100/Publish-AppService-to-Azure#publish-appservice-to-azure) from Dan Sullivan as well.
   * Resource: sd7CadTemp
   * Updated the Disclaimer and Privacy statements, copied from usmc.mil and DoD websites.
 3. 200407, Changed favicon.ico under wwwroot folder.
