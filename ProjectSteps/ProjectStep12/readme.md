@@ -6,6 +6,7 @@ The project database tables and model classes are connected. Using code, connect
 ## Submit:
 
 1. screenshot of SSMS showing data stored in tables
+  * ![img](https://github.com/gowebUSA/MSSA-Project/blob/master/ProjectSteps/ProjectStep12/images/1%20Screenshot%20of%20SSMS%20showing%20data.png?raw=true)
 1. screenshot of application view showing data retrieved from the database and displayed on the page
    * https://omaf.azurewebsites.net/Aircraft
 1. screenshot of your application demonstrating how the data is collected from the application (a form?)
