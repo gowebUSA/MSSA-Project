@@ -46,6 +46,8 @@ Project Management [Link](https://github.com/users/gowebUSA/projects/1)
 `**/appsettings.staging.json`<br />
 `**/appsettings.production.json`
 1. When [publishing](https://github.com/uid100/Publish-AppService-to-Azure#publish-appservice-to-azure) to Azure for the first time, make sure to chose self-contained in the publishing settings.
+1. If using Virtual Machine SQL Database using SSMS, use the following code:
+`"Data Source=20.191.119.182,1433\\MSSQLSERVER;Database=o_maf;User ID=omafsqladmin;Password=sd7pa$$word;Connect Timeout=20;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False",'
 
 ### TODO:
 - [ ] Add a [search](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/search?view=aspnetcore-3.1) bar.
