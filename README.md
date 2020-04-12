@@ -46,7 +46,7 @@ Project Management [Link](https://github.com/users/gowebUSA/projects/1)
 `**/appsettings.staging.json`<br />
 `**/appsettings.production.json`
 1. When [publishing](https://github.com/uid100/Publish-AppService-to-Azure#publish-appservice-to-azure) to Azure for the first time, make sure to chose self-contained in the publishing settings.
-1. If using Virtual Machine SQL Database using SSMS, use the following code:
+1. If using Virtual Machine SQL Database using SSMS, use the following code:<br />
 `"Data Source=20.191.119.182,1433\\MSSQLSERVER;Database=o_maf;User ID=omafsqladmin;Password=sd7pa$$word;Connect Timeout=20;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False",`
 
 ### TODO:
@@ -74,3 +74,5 @@ Project Management [Link](https://github.com/users/gowebUSA/projects/1)
   * Updated the Disclaimer and Privacy statements, copied from usmc.mil and DoD websites.
 3. 200407, Changed favicon.ico under wwwroot folder.
 4. 200408, Checked and created the submission requirements for [Project Step 12 here](https://github.com/gowebUSA/MSSA-Project/tree/master/ProjectSteps/ProjectStep12). Since Azure SQL Database started working again, I created a new database in Azure `Database Name: sd7omaf`.
+5. Connected Azure SQL Database Server. 
+`sd7omaf.database.windows.net`
