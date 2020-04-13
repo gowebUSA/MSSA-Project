@@ -30,25 +30,6 @@ Project Management [Link](https://github.com/users/gowebUSA/projects/1)
 - [ ] Project Step 16 Azure - CSS & Responsive Design
 - [ ] Project Step 17 Azure - TDD/Updated Test Report
 - [ ] Project Step 18 Azure - Final Project Review
-
-### Important Notes:
-1. [dotnet ef migrations add Initial] using cmd under the project folder on ASP.NET Core MVC 2 (ANCM2) page 214.
-<br />Other method is on [ASP.NET Core 3.1 Tutorial](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/adding-model?view=aspnetcore-3.1&tabs=visual-studio#scaffold-movie-pages) by using Power Shell.
-1. The default URL routing logic used by MVC uses a format like [this](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/adding-controller?view=aspnetcore-3.1&tabs=visual-studio#add-a-controller) to determine what code to invoke:
-<br />`/[Controller]/[ActionName]/[Parameters`
-<br />The routing format is set in the Configure method in Startup.cs file but modified on ANCM2 page 230.
-1. Use Microsoft.EntityFramework.SqlServer version 3.1.1
-1. Remove all comments inside @foreach statement under Views/Shared/Components/NavigationMenu/Default.cshtml or else, the menu selection will not work. ANCM2 page 214
-1. Remove the connection strings on your appsettings.json file by adding this code when [committing to GitHub](https://help.github.com/en/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line).<br />
-`# ignore appsettings configuration files`<br />
-`**/appsettings.json`<br />
-`**/appsettings.development.json`<br />
-`**/appsettings.staging.json`<br />
-`**/appsettings.production.json`
-1. When [publishing](https://github.com/uid100/Publish-AppService-to-Azure#publish-appservice-to-azure) to Azure for the first time, make sure to chose self-contained in the publishing settings.
-1. If using Virtual Machine SQL Database using SSMS, use the following code:<br />
-`"Data Source=20.191.119.182,1433\\MSSQLSERVER;Database=o_maf;User ID=omafsqladmin;Password=sd7pa$$word;Connect Timeout=20;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False",`
-
 ### TODO:
 - [ ] Add a [search](https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/search?view=aspnetcore-3.1) bar.
 - [ ] Use SportStore Add to cart when an inspector is ready to sign off MAFs.
@@ -64,15 +45,3 @@ Project Management [Link](https://github.com/users/gowebUSA/projects/1)
 - [x] Create new SQL Database in Azure 
   * connect OMAF data to it.
   * From Azure SQL overview, Allow Azure services and resources to access this server to YES.
-
-### LOG
-1. 200330, Installed MVC. Finishes Added Controller, View, Model, Database, and Controller/Actions/Views.
-2. 200406, Collections:
-  * Connected to SQL Server inside VM on Azure. Deploy SQL Server on Azure (Windows) VM. Currently unable to deploy Azure database server resources. This is a temporary, tested workaround. See Dan's solution at https://github.com/uid100/Deploy-SQLServer-on-Azure-VM.
-  * Deployed website to Azure, sd7CadTempVM as computer name. The link for MSSA students for Azure is http://aka.ms/startedu. Followed this [insructions](https://github.com/uid100/Publish-AppService-to-Azure#publish-appservice-to-azure) from MSSA instructor Dan Sullivan as well.
-  * Resource: sd7CadTemp
-  * Updated the Disclaimer and Privacy statements, copied from usmc.mil and DoD websites.
-3. 200407, Changed favicon.ico under wwwroot folder.
-4. 200408, Checked and created the submission requirements for [Project Step 12 here](https://github.com/gowebUSA/MSSA-Project/tree/master/ProjectSteps/ProjectStep12). Since Azure SQL Database started working again, I created a new database in Azure `Database Name: sd7omaf`.
-5. 200412, Connected Azure SQL Database Server. 
-`sd7omaf.database.windows.net`
