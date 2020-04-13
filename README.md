@@ -26,7 +26,7 @@ Project Management [Link](https://github.com/users/gowebUSA/projects/1)
 - [x] Project Step 10 Azure - In-Process Review (IPR)
 - [x] [Project Step 11 Azure](https://github.com/gowebUSA/MSSA-Project/tree/master/ProjectSteps/ProjectStep11) - Data Model class implementation (EF)
 - [x] [Project Step 12 Azure](https://github.com/gowebUSA/MSSA-Project/tree/master/ProjectSteps/ProjectStep12) - DB Integration
-- [ ] Project Step 13 Azure - Sprint Planning
+- [x] [Project Step 13 Azure](https://github.com/gowebUSA/MSSA-Project/projects/1) - Sprint Planning
 - [ ] Project Step 14 Azure - Sprint Review
 - [ ] Project Step 15 Azure - Preliminary Product Delivery
 - [ ] Project Step 16 Azure - CSS & Responsive Design
