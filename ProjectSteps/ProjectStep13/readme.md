@@ -18,6 +18,7 @@ Create a project board from your repository (can be Sprint 1, Sprint 2, ...) and
 
 - In Progress (WIP) .. to
 - Done (Complete)
+- [Project page here](https://github.com/gowebUSA/MSSA-Project/projects/1)
 
 You will likely not want to have more than 2 or 3 active issues "In Progress" at a time.
 
