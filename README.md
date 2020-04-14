@@ -13,7 +13,7 @@ Credits: Some images from this project are from Microsoft PowerPoint template.
 Check out my wiki page [here](https://github.com/gowebUSA/MSSA-Project/wiki).
 
 ### Project Steps
-Project steps required for MSSA Cloud Application Development Cohort SD 7.
+Project steps required for MSSA Cloud Application Development Cohort SD 7. You can click on the project title to get to the required submmission materials.
 - [x] Project Step 1 C# - Concept Investigation
 - [x] Project Step 2 C# - Project Selection
 - [x] Project Step 3 C# - Presentation/Peer Review
