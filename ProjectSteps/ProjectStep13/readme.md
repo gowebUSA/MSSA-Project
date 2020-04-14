@@ -50,7 +50,7 @@ Although incremental and spiral development introduce other considerations with 
 Some of the challenges with these traditional workflows include long lag time between stakeholder feedback through interim progress reviews, artifically imposed serialization of activities, and complexities involving change management.
 
 ## Agile Software Development
-In recent years, members of the community met and published 12 principles to improve on these challenges in the Manifesto for Agile Software Development. This meeting started an movement to introduce significant change and process improvement to engineering and other business processes.
+In recent years, members of the community met and published 12 principles to improve on these challenges in the [Manifesto for Agile Software Development](http://agilemanifesto.org/). This meeting started an movement to introduce significant change and process improvement to engineering and other business processes.
 
 Among the better known methodologies which have grown out of these principles are "Scrum" and "Kanban"
 
@@ -63,7 +63,7 @@ Another practice which has been associated with the efforts toward more agile so
 Although these practices so(commonly accepted classifications)
 
 ## Defect Severity
-often subjective. the tester or author of a defect will often recommend a defect severity
+Often subjective. The tester or author of a defect will often recommend a defect severity.
 
 Critical: The defect affects critical functionality or critical data. It does not have a workaround. Example: Unsuccessful installation, complete failure of a feature. Major: The defect affects major functionality or major data. It has a workaround but is not obvious and is difficult. Example: A feature is not functional from one module but the task is doable if 10 complicated indirect steps are followed in another module/s. Minor: The defect affects minor functionality or non-critical data. It has an easy workaround. Example: A minor feature that is not functional in one module but the same task is easily doable from another module. Trivial: The defect does not affect functionality or data. It does not even need a workaround. It does not impact productivity or efficiency. It is merely an inconvenience. Example: Petty layout discrepancies, spelling/grammatical errors. Severity is also denoted as:
 
@@ -73,5 +73,3 @@ Cat.1 (or S1) = Critical Cat.2 (or S2) = Major Cat.3 (or S3) = Minor Cat.4 (or S
 Priority can be categorized into the following levels: priority is set by the product owner or Configuration Control Board (CCB). Some factors which may be considered are customer requirements, budget, schedule, and re-classification of severity
 
 Pri.1 = Urgent: Must be fixed immediately / in the next build. Pri.2 = High: Must be fixed in any of the upcoming builds but should be included in the release. Pri.3 = Medium: May be fixed after the release / in the next release. Pri.4 = Low: May or may not be fixed at all.metimes use slightly different terminology and activities, they are not mutually exclusive.
-
-
