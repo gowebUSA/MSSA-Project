@@ -29,7 +29,8 @@ Submit (3) screenshots of the (a.) Issues list, the opened (b.)Issue Details for
 2. ![Open Issues](https://github.com/gowebUSA/MSSA-Project/blob/master/files/issues-open.png)
 3. ![Closed Issues](https://github.com/gowebUSA/MSSA-Project/blob/master/files/issues-closed.png)
 
-Finally, paste the link to your [Github project page](https://github.com/gowebUSA/MSSA-Project) in the comments box to indicate that the assignmetn is ready for review.
+### Finally
+Paste the link to your [Github project page](https://github.com/gowebUSA/MSSA-Project) in the comments box to indicate that the assignmetn is ready for review.
 
 ## SDLC .. background
 In general terms, every formal process is a prescribed sequence of activities.
