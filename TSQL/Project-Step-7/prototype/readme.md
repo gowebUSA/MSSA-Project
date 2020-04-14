@@ -1,5 +1,5 @@
 # Online - Maintenance Action Forms (O-MAF)
-# Prototype
+### Prototype
 ## Table Of Contents
 1. [Concept](#concept)
 2. [Use Case Diagram UML](#use-case-diagram)
