@@ -73,4 +73,4 @@ Cat.1 (or S1) = Critical Cat.2 (or S2) = Major Cat.3 (or S3) = Minor Cat.4 (or S
 ## Issue Priority
 Priority can be categorized into the following levels: priority is set by the product owner or Configuration Control Board (CCB). Some factors which may be considered are customer requirements, budget, schedule, and re-classification of severity
 
-Pri.1 = Urgent: Must be fixed immediately / in the next build. Pri.2 = High: Must be fixed in any of the upcoming builds but should be included in the release. Pri.3 = Medium: May be fixed after the release / in the next release. Pri.4 = Low: May or may not be fixed at all.metimes use slightly different terminology and activities, they are not mutually exclusive.
+Pri.1 = Urgent: Must be fixed immediately / in the next build. Pri.2 = High: Must be fixed in any of the upcoming builds but should be included in the release. Pri.3 = Medium: May be fixed after the release / in the next release. Pri.4 = Low: May or may not be fixed at all. Sometimes use slightly different terminology and activities, they are not mutually exclusive.
