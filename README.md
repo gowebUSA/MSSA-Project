@@ -27,7 +27,7 @@ Project steps required for MSSA Cloud Application Development Cohort SD 7. You c
 - [x] [Project Step 11 Azure](https://github.com/gowebUSA/MSSA-Project/tree/master/ProjectSteps/ProjectStep11) - Data Model class implementation (EF)
 - [x] [Project Step 12 Azure](https://github.com/gowebUSA/MSSA-Project/tree/master/ProjectSteps/ProjectStep12) - DB Integration
 - [x] [Project Step 13 Azure](https://github.com/gowebUSA/MSSA-Project/tree/master/ProjectSteps/ProjectStep13) - Sprint Planning (**Ready for review**)
-- [ ] Project Step 14 Azure - Sprint Review
+- [ ] [Project Step 14 Azure](https://github.com/gowebUSA/MSSA-Project/blob/master/ProjectSteps/ProjectStep14) - Sprint Review (**In Work**)
 - [ ] Project Step 15 Azure - Preliminary Product Delivery
 - [ ] Project Step 16 Azure - CSS & Responsive Design
 - [ ] Project Step 17 Azure - TDD/Updated Test Report
