@@ -6,14 +6,15 @@ Correctly planning and executing to a sprint plan is essential to tracking progr
 This week, execute to your project list, each day moving items from your todo list, to Work-in-progress (WIP) and finally to 'complete'.
 
 ### Submit: 
-1.) Daily screenshots Each day take a screenshot of the Kanban issue board. At the end of the sprint, submit your daily screenshots.
+1. Daily screenshots Each day take a screenshot of the Kanban issue board. At the end of the sprint, submit your daily screenshots.
 
-2.) Burndown chart (what is a burndown chart?) There are many sprint tracking tools available. Github is convenient because you can track all elements of your project together, but it doesn't support burndown charts yet. Use any tool to show what a burndown chart of your sprint might look like.
+2. Burndown chart (what is a burndown chart?) There are many sprint tracking tools available. Github is convenient because you can track all elements of your project together, but it doesn't support burndown charts yet. Use any tool to show what a burndown chart of your sprint might look like.
 
-3.) Sprint Review Answer the following:
+3. Sprint Review Answer the following:
    * Did you complete all items in your sprint plan?
    * What is your sprint deliverable? (shippable product(s))
    * Did you have any task volatility, and what was the cause?
    * What would you do differently knowing what you know now?
-4.) (Next) Sprint Plan Create another 'project' (may be named "sprint 2") and add items from your prioritized backlog issues. Attach a screenshot of the new Kanban board (sprint plan)
+   
+4. (Next) Sprint Plan Create another 'project' (may be named "sprint 2") and add items from your prioritized backlog issues. Attach a screenshot of the new Kanban board (sprint plan)
 
