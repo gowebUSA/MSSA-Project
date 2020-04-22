@@ -6,7 +6,7 @@ Correctly planning and executing to a sprint plan is essential to tracking progr
 This week, execute to your project list, each day moving items from your todo list, to Work-in-progress (WIP) and finally to 'complete'.
 
 ### Submit: 
-1. Daily screenshots Each day take a screenshot of the Kanban issue board. At the end of the sprint, submit your daily screenshots.
+1. Daily screenshots Each day take a screenshot of the [Kanban issue board](https://github.com/gowebUSA/MSSA-Project/projects/2). At the end of the sprint, submit your daily screenshots.
    * Day 1
    ![Day 1](https://github.com/gowebUSA/MSSA-Project/blob/master/ProjectSteps/ProjectStep14/images/4-21.png?raw=true)
    
