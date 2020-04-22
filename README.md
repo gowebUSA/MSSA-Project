@@ -1,7 +1,7 @@
 # MSSA-Project
 MSSASD7 repository for projects in C#, T-SQL, and ASP.NET.
 ## O-MAF Project
-**Ready for review.** <br />
+### Ready for review.
 Go to [**Prototype**](https://github.com/gowebUSA/MSSA-Project/wiki#online---maintenance-action-forms-o-maf) or see the live website at **https://omaf.azurewebsites.net**.
 
 New update will be coming soon. I will apply MvcMovie App to O-MAF as baseline.
