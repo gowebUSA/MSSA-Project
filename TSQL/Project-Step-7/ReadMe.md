@@ -11,7 +11,7 @@ Green Belt**.
 ### Table Of Contents
 - [X] [0. O-MAF Concept](O-MAF%20Concept.pdf)- .pdf
 - [X] [1. User Stories (2-5)](User%20Story.pdf)- .pdf
-- [ ] [2. Use Cases](https://github.com/gowebUSA/MSSA-Project/issues) (4-10)
+- [X] [2. Use Cases](https://github.com/gowebUSA/MSSA-Project/issues) (4-10)
 - [X] [3. User Case Diagram UML](#user-case-uml)
 - [X] [4. Wire Frame](https://github.com/gowebUSA/MSSA-Project/tree/master/TSQL/Project-Step-7/Wire%20Frame)
 - [X] [5. Requirement List and RTM](Requirement%20List%20and%20RTM.pdf)- .pdf
