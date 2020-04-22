@@ -13,6 +13,8 @@ Check out my **wiki** page [here](https://github.com/gowebUSA/MSSA-Project/wiki)
 
 ![Concept](https://github.com/gowebUSA/MSSA-Project/raw/master/TSQL/Project-Step-7/prototype/images/Concept.png)
 
+Using O MAF will enable maintenance controllers to effectively manage all MAFs and set priorities. Efficiency will be increased by 67% based on previous studies done by Certified Lean Six Sigma Green Belt. You can also check the concept page [here](https://github.com/gowebUSA/MSSA-Project/tree/master/TSQL/Project-Step-7) or visit the live site at https://omaf.azurewebsites.net.
+
 ### Project Steps
 Project steps required for MSSA Cloud Application Development Cohort SD 7. You can click on the project title to get to the required submmission materials starting on Project Steps 11 Azure - Data Model class implementation (EF).
 - [x] Project Step 1 C# - Concept Investigation
