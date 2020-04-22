@@ -24,5 +24,5 @@ This week, execute to your project list, each day moving items from your todo li
       * I would start my project using the project management tools provided by GitHub.
    
 4. (Next) Sprint Plan Create another 'project' (may be named "sprint 2") and add items from your prioritized backlog issues. Attach a screenshot of the new Kanban board (sprint plan)
-   * ![Project Step 14a](https://github.com/gowebUSA/MSSA-Project/blob/master/ProjectSteps/ProjectStep14/images/14a.png?raw=true)
+   ![Project Step 14a](https://github.com/gowebUSA/MSSA-Project/blob/master/ProjectSteps/ProjectStep14/images/14a.png?raw=true)
 
