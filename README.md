@@ -9,7 +9,7 @@ Ref: https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-mvc-app/start-
 
 Credits: Some images from this project are from Microsoft PowerPoint template.
 
-Check out my **wiki** page [here](https://github.com/gowebUSA/MSSA-Project/wiki).
+Check out my **wiki** page [here](https://github.com/gowebUSA/MSSA-Project/wiki/Important-Notes).
 
 ![Concept](https://github.com/gowebUSA/MSSA-Project/raw/master/TSQL/Project-Step-7/prototype/images/Concept.png)
 
