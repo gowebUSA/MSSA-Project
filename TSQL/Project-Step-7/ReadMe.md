@@ -1,5 +1,5 @@
 [Back to prototype](https://github.com/gowebUSA/MSSA-Project/tree/master/TSQL/Project-Step-7/prototype#online---maintenance-action-forms-o-maf)
-## O-MAF Project
+## O-MAF Project Concept Page
 ![O-MAF Concept](O-MAF-concept.png)
 Using O MAF will enable maintenance controllers to
 effectively manage all MAFs and set priorities.
