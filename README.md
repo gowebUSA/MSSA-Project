@@ -22,7 +22,7 @@ Project steps required for MSSA Cloud Application Development Cohort SD 7. You c
 - [x] Project Step 4 SQL - DB Design
 - [x] Project Step 5 SQL - DB Implementation
 - [x] Project Step 6 SQL - UI/UX Wireframe(s)
-- [x] Project Step 7 MVC - Requirements, Use Case
+- [x] [Project Step 7 MVC](https://github.com/gowebUSA/MSSA-Project/tree/master/TSQL/Project-Step-7) - Requirements, Use Case
 - [x] Project Step 8 MVC - Test Planning
 - [x] Project Step 9 MVC - Prototype
 - [x] Project Step 10 Azure - In-Process Review (IPR)
