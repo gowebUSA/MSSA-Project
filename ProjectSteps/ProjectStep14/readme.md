@@ -7,7 +7,9 @@ This week, execute to your project list, each day moving items from your todo li
 
 ### Submit: 
 1. Daily screenshots Each day take a screenshot of the Kanban issue board. At the end of the sprint, submit your daily screenshots.
-
+   * Day 1
+   ![Day 1](https://github.com/gowebUSA/MSSA-Project/blob/master/ProjectSteps/ProjectStep14/images/4-21.png?raw=true)
+   
 2. Burndown chart (what is a burndown chart?) There are many sprint tracking tools available. Github is convenient because you can track all elements of your project together, but it doesn't support burndown charts yet. Use any tool to show what a burndown chart of your sprint might look like.
 
 3. Sprint Review Answer the following:
