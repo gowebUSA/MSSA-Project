@@ -1,1 +1,1 @@
-Copllections of images for project submissions.
+Copllection of images for project submissions.
