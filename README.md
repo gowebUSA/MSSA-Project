@@ -11,6 +11,7 @@ Credits: Some images from this project are from Microsoft PowerPoint template.
 
 Check out my **wiki** page [here](https://github.com/gowebUSA/MSSA-Project/wiki/Important-Notes).
 
+### Concept
 ![Concept](https://github.com/gowebUSA/MSSA-Project/raw/master/TSQL/Project-Step-7/prototype/images/Concept.png)
 
 > Using O MAF will enable maintenance controllers to effectively manage all MAFs and set priorities. Efficiency will be increased by 67% based on previous studies done by **Certified Lean Six Sigma Green Belt**. You can also check the concept page [here](https://github.com/gowebUSA/MSSA-Project/tree/master/TSQL/Project-Step-7#o-maf-project-concept-page) or visit the live site at https://omaf.azurewebsites.net.
