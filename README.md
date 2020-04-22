@@ -12,6 +12,8 @@ Credits: Some images from this project are from Microsoft PowerPoint template.
 
 Check out my **wiki** page [here](https://github.com/gowebUSA/MSSA-Project/wiki).
 
+![Concept](https://github.com/gowebUSA/MSSA-Project/raw/master/TSQL/Project-Step-7/prototype/images/Concept.png)
+
 ### Project Steps
 Project steps required for MSSA Cloud Application Development Cohort SD 7. You can click on the project title to get to the required submmission materials starting on Project Steps 11 Azure - Data Model class implementation (EF).
 - [x] Project Step 1 C# - Concept Investigation
