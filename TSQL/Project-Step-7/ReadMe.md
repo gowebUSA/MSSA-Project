@@ -5,8 +5,8 @@ Requirements and Use Case
 Using O MAF will enable maintenance controllers to
 effectively manage all MAFs and set priorities.
 Efficiency will be increased by 67% based on
-previous studies done by Certified Lean Six Sigma
-Green Belt.
+previous studies done by **Certified Lean Six Sigma
+Green Belt**.
 
 ### Table Of Contents
 - [X] [0. O-MAF Concept](O-MAF%20Concept.pdf)- .pdf
