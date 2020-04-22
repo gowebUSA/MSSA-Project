@@ -15,10 +15,13 @@ This week, execute to your project list, each day moving items from your todo li
 
 3. Sprint Review Answer the following:
    * Did you complete all items in your sprint plan?
+      * 
    * What is your sprint deliverable? (shippable product(s))
       * Yes, you can visit the live website at https://omaf.azurewebsites.net/
    * Did you have any task volatility, and what was the cause?
+      * 
    * What would you do differently knowing what you know now?
+      * I would start my project using the project management tools provided by GitHub.
    
 4. (Next) Sprint Plan Create another 'project' (may be named "sprint 2") and add items from your prioritized backlog issues. Attach a screenshot of the new Kanban board (sprint plan)
 
