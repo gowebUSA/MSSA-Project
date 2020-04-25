@@ -16,7 +16,7 @@ This week, execute to your project list, each day moving items from your todo li
    ![Day 4](https://github.com/gowebUSA/MSSA-Project/blob/master/ProjectSteps/ProjectStep14/images/4-24.png?raw=true)
    
 2. Burndown chart (what is a burndown chart?) There are many sprint tracking tools available. Github is convenient because you can track all elements of your project together, but it doesn't support burndown charts yet. Use any tool to show what a burndown chart of your sprint might look like.
-   * You can download the **[Burndown Chart here](https://github.com/gowebUSA/MSSA-Project/blob/master/files/Sprint_Burndown_Chart_OMAF.xlsx?raw=true)**.
+   * You can download the **[Burndown Chart here dtd 200424](https://github.com/gowebUSA/MSSA-Project/blob/master/ProjectSteps/ProjectStep14/images/Sprint_Burndown_Chart_OMAF_200424.xlsx?raw=true)**.
 
 3. Sprint Review Answer the following:
    * Did you complete all items in your sprint plan?
