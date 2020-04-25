@@ -20,7 +20,7 @@ This week, execute to your project list, each day moving items from your todo li
 
 3. Sprint Review Answer the following:
    * Did you complete all items in your sprint plan?
-      * 
+      * No.
    * What is your sprint deliverable? (shippable product(s))
       * Yes, you can visit the live website at https://omaf.azurewebsites.net/
    * Did you have any task volatility, and what was the cause?
