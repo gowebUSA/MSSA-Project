@@ -24,10 +24,11 @@ This week, execute to your project list, each day moving items from your todo li
    * What is your sprint deliverable? (shippable product(s))
       * Yes, you can visit the live website at https://omaf.azurewebsites.net/
    * Did you have any task volatility, and what was the cause?
-      * 
+      * Yes, skipping days because of other priorities.
+      * And researching tools for implementation of additional functionality for the project.
    * What would you do differently knowing what you know now?
       * I would start my project using the project management tools provided by GitHub.
    
 4. (Next) Sprint Plan Create another 'project' (may be named "[Project Step 14a](https://github.com/gowebUSA/MSSA-Project/projects/3)") and add items from your prioritized backlog issues. Attach a screenshot of the new Kanban board (sprint plan).
-   ![Project Step 14a](https://github.com/gowebUSA/MSSA-Project/blob/master/ProjectSteps/ProjectStep14/images/14a.png?raw=true)
+   * ![Project Step 14a](https://github.com/gowebUSA/MSSA-Project/blob/master/ProjectSteps/ProjectStep14/images/14a.png?raw=true)
 
