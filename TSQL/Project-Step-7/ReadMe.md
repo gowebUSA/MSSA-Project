@@ -1,4 +1,4 @@
-[Back to prototype](https://github.com/gowebUSA/MSSA-Project/tree/master/TSQL/Project-Step-7/prototype#online---maintenance-action-forms-o-maf)
+[Back to prototype](https://github.com/gowebUSA/MSSA-Project/wiki)
 ## O-MAF Project Concept Page
 Requirements and Use Case
 ![O-MAF Concept](O-MAF-concept.png)
