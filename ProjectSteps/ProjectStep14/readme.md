@@ -14,6 +14,9 @@ This week, execute to your project list, each day moving items from your todo li
    * Day 3 Working on Azure and Python Labs
    * Day 4
    ![Day 4](https://github.com/gowebUSA/MSSA-Project/blob/master/ProjectSteps/ProjectStep14/images/4-24.png?raw=true)
+   * Day 5 Working on Azure Labs
+   * Day 6
+   ![Day 4](https://github.com/gowebUSA/MSSA-Project/blob/master/ProjectSteps/ProjectStep14/images/4-26.png?raw=true)
    
 2. Burndown chart (what is a burndown chart?) There are many sprint tracking tools available. Github is convenient because you can track all elements of your project together, but it doesn't support burndown charts yet. Use any tool to show what a burndown chart of your sprint might look like.
    * You can download the **[Burndown Chart here dtd 200424](https://github.com/gowebUSA/MSSA-Project/blob/master/ProjectSteps/ProjectStep14/images/Sprint_Burndown_Chart_OMAF_200424.xlsx?raw=true)**.
