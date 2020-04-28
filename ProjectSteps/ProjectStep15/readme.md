@@ -6,7 +6,7 @@ Agile software development methodologies encourage short delivery cycles of smal
 
 In scrum methodology, these shorter cycles, termed 'Sprints' allow flexible scope and fix cost and budget.
 
-A goal of every sprint in the product evolution is a tested, potentially shippable product. The concept of a minimum viable product (MVP) is a functional subset of feature requirements, suitable for stakeholder review and feedback.
+A goal of every sprint in the product evolution is a tested, **potentially shippable product**. The concept of a minimum viable product (MVP) is a functional subset of feature requirements, suitable for stakeholder review and feedback.
 
 For this project step, define or describe the next minimum viable product for this Sprint. In the Github form "Create a New Project" plan the next phase (sprint) of your project, giving it a consistent title according to your naming conventions (could be "Sprint 2") and add your target deliverable (MVP) in the description box in the form.
 
