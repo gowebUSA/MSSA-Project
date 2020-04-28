@@ -1,4 +1,6 @@
-# Sprint Review / Demo / MVP
+# Project Step 15 - Preliminary Product Delivery
+
+## Sprint Review / Demo / MVP
 
 Agile software development methodologies encourage short delivery cycles of smaller deliverables compared with the traditional waterfall approach which targets a single, completed project through sequential evolutionary phases.
 
