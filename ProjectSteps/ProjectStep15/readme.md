@@ -13,3 +13,6 @@ For this project step, define or describe the next minimum viable product for th
 ### Submit
 
 At the end of the (1 week) sprint, submit the Sprint Review like last week with additional screenshots or suitable presentation artifacts to support the Demo of your MVP.
+
+- Day 3
+   * ![Day 3](https://github.com/gowebUSA/MSSA-Project/blob/master/ProjectSteps/ProjectStep15/files/4-29.png?raw=true)
