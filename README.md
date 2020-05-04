@@ -1,7 +1,7 @@
 # MSSA-Project
 MSSASD7 repository for projects in C#, T-SQL, and ASP.NET.
 ## GO-MAF Project
-Generated Online - Maintenance Actin Form
+Generated Online - Maintenance Action Form
 ### Ready for review.
 Go to [**Prototype**](https://github.com/gowebUSA/MSSA-Project/wiki#online---maintenance-action-forms-o-maf) or see the live website at **https://gomaf.azurewebsites.net**.
 
