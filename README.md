@@ -15,7 +15,7 @@ Check out my **wiki** page [here](https://github.com/gowebUSA/MSSA-Project/wiki/
 ### Concept
 ![Concept](https://github.com/gowebUSA/MSSA-Project/raw/master/TSQL/Project-Step-7/prototype/images/Concept.png)
 
-> Using GO-MAF will enable maintenance controllers to effectively manage all MAFs and set priorities. Efficiency will be increased by 67% based on previous studies done by **Certified Lean Six Sigma Green Belt**. You can also check the concept page [here](https://github.com/gowebUSA/MSSA-Project/tree/master/TSQL/Project-Step-7#o-maf-project-concept-page) or visit the live site at https://omaf.azurewebsites.net.
+> Using GO-MAF will enable maintenance controllers to effectively manage all MAFs and set priorities. Efficiency will be increased by 67% based on previous studies done by **Certified Lean Six Sigma Green Belt**. You can also check the concept page [here](https://github.com/gowebUSA/MSSA-Project/tree/master/TSQL/Project-Step-7#o-maf-project-concept-page) or visit the live site at https://gomaf.azurewebsites.net.
 
 ### Project Steps
 Project steps required for MSSA Cloud Application Development Cohort SD 7. You can click on the project title to get to the required submmission materials starting on Project Steps 11 Azure - Data Model class implementation (EF).
