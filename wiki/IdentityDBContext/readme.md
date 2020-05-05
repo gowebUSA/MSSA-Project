@@ -5,10 +5,10 @@ Steps for utilizing Entity Framework Core IdentityDbContext
    * `using Microsoft.AspNetCore.Identity.EntityFrameworkCore;`
    * Use `: IdentityDbContext` interface.
 1. Define a new Connectionstring as new database.
-  * Connection string has to be defined in a single unbroken line in the appsettings.json.
+    * Connection string has to be defined in a single unbroken line in the appsettings.json.
 1. Configuring Identity in the Startup.cs File
-  * Add using statement `using Microsoft.AspNetCore.Identity;`.
-  * `services.AddDbContext<AppIdentityDbContext>(options =>`
+    * Add using statement `using Microsoft.AspNetCore.Identity;`.
+    * `services.AddDbContext<AppIdentityDbContext>(options =>`
     `options.UseSqlServer(`
      `Configuration["Data:SportStoreIdentity:ConnectionString"]));`
      
@@ -16,4 +16,4 @@ Steps for utilizing Entity Framework Core IdentityDbContext
     `.AddEntityFrameworkStores<AppIdentityDbContext>()`
     `.AddDefaultTokenProviders();`
     
-  * Add the `app.UseAuthentication();` method before the UseMvc() method.  
+    * Add the `app.UseAuthentication();` method before the UseMvc() method.  
