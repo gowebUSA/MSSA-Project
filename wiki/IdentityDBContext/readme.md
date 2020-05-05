@@ -20,14 +20,14 @@
 1. Add Migration
     * `Add-Migration Initial -Context AppIdentityDbContext`
 1. Create seed data in the Models Forlde.
-    * private const string adminUser = "Admin";
-private const string adminPassword = "Secret123$";
-public static async void EnsurePopulated(IApplicationBuilder app) {
-UserManager<IdentityUser> userManager = app.ApplicationServices
-.GetRequiredService<UserManager<IdentityUser>>();
-IdentityUser user = await userManager.FindByIdAsync(adminUser);
-if (user == null) {
-user = new IdentityUser("Admin");
-await userManager.CreateAsync(user, adminPassword);
-}
-}
+    * `private const string adminUser = "Admin";
+      `private const string adminPassword = "Secret123$";
+      `public static async void EnsurePopulated(IApplicationBuilder app) {
+        `UserManager<IdentityUser> userManager = app.ApplicationServices
+          `.GetRequiredService<UserManager<IdentityUser>>();
+        `IdentityUser user = await userManager.FindByIdAsync(adminUser);
+        `if (user == null) {
+          `user = new IdentityUser("Admin");
+          `await userManager.CreateAsync(user, adminPassword);
+        `}
+      }
