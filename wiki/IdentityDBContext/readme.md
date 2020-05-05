@@ -20,7 +20,7 @@ Ref: Pro ASP.NET Core MVC 2
     * Add the `app.UseAuthentication();` method before the UseMvc() method.  
 1. Add Migration
     * `Add-Migration Initial -Context AppIdentityDbContext`
-1. Create seed data in the Models Forlde.
+1. Create seed data in the Models Folder.
     * `private const string adminUser = "Admin";`
     
       `private const string adminPassword = "Secret123$";`
