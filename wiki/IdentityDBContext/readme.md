@@ -1,4 +1,4 @@
-Steps for utilizing Entity Framework Core IdentityDbContext
+### Steps for utilizing Entity Framework Core IdentityDbContext
 
 1. Make IdentityDbContext
    * Install Microsoft.AspNetCore.Identity.EntityFrameworkCore; on NuGet ver 3.1.1 or 3.1.3
@@ -17,3 +17,5 @@ Steps for utilizing Entity Framework Core IdentityDbContext
       `.AddDefaultTokenProviders();`
     
     * Add the `app.UseAuthentication();` method before the UseMvc() method.  
+1. Add Migration
+    * `Add-Migration Initial -Context AppIdentityDbContext`
