@@ -9,11 +9,11 @@ Steps for utilizing Entity Framework Core IdentityDbContext
 1. Configuring Identity in the Startup.cs File
     * Add using statement `using Microsoft.AspNetCore.Identity;`.
     * `services.AddDbContext<AppIdentityDbContext>(options =>`
-    `options.UseSqlServer(`
-     `Configuration["Data:SportStoreIdentity:ConnectionString"]));`
+      `options.UseSqlServer(`
+      `Configuration["Data:SportStoreIdentity:ConnectionString"]));`
      
-   `services.AddIdentity<IdentityUser, IdentityRole>()`
-    `.AddEntityFrameworkStores<AppIdentityDbContext>()`
-    `.AddDefaultTokenProviders();`
+    `services.AddIdentity<IdentityUser, IdentityRole>()`
+      `.AddEntityFrameworkStores<AppIdentityDbContext>()`
+      `.AddDefaultTokenProviders();`
     
     * Add the `app.UseAuthentication();` method before the UseMvc() method.  
