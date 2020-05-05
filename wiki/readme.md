@@ -1,4 +1,4 @@
-Wiki folder for good instrux=ctions link.
+Wiki folder for good instruction links.
 
 ### Table of Contents
 1. Connecting to Azure SQL Server to Visual Studio
