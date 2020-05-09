@@ -9,3 +9,5 @@
 - Mobile - Landscape View
 
 ![Mobile Landscape](https://github.com/gowebUSA/MSSA-Project/blob/master/ProjectSteps/ProjectStep16/files/Mobile-Landscape-view1.png?raw=true)
+- Next week's sprint planning 16
+-[Sprint 16](https://github.com/gowebUSA/MSSA-Project/blob/master/ProjectSteps/ProjectStep16/files/sprint-16.png?raw=true)
