@@ -5,11 +5,11 @@ This week, update your test report to show your updated (decomposed) requirement
 
 ### Answer the following:
 
-What percent of requirements are (currently) covered by test cases?
-What percent of test cases are currently passing?
-What level of Validation could be expected after Verification? (Acceptance Tests?) And
-Include itemized test list
-Include RTM
+- What percent of requirements are (currently) covered by test cases?
+- What percent of test cases are currently passing?
+- What level of Validation could be expected after Verification? (Acceptance Tests?) And
+- Include itemized test list
+- Include RTM
 
 ### Submit:
 
