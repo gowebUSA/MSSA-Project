@@ -18,7 +18,8 @@ This week (5/11/2020), update your test report to show your updated (decomposed)
     * Creation of an object (MAF, Aircraft)
     * Authemtication of user minimum fields.
 - Include RTM
-|  #  | Test                | Unit Testing |
+
+|  No.  | Test                | Unit Testing |
 |-----|---------------------|--------------|
 | 1.0 | Acknowledge Consent |              | 
 | 1.1 | Username            |  X           |  
