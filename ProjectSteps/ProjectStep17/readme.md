@@ -12,6 +12,8 @@ This week (5/11/2020), update your test report to show your updated (decomposed)
 - What percent of test cases are currently passing?
     * There are 7 out 8 are passing and implemented which results to **87.5%**
 - What level of Validation could be expected after Verification? (Acceptance Tests?) And
+    * TryValidateObject() methos is used.
+    * ![Unit Test](https://github.com/gowebUSA/MSSA-Project/blob/master/ProjectSteps/ProjectStep17/files/Test.png?raw=true)
 - Include itemized test list
     * Username
     * Password
@@ -19,7 +21,7 @@ This week (5/11/2020), update your test report to show your updated (decomposed)
     * Authemtication of user minimum fields.
 - Include RTM
 
-|  No.  | Test                | Unit Testing |
+|  #  | Test                | Unit Testing |
 |-----|---------------------|--------------|
 | 1.0 | Acknowledge Consent |              | 
 | 1.1 | Username            |  X           |  
@@ -33,4 +35,9 @@ This week (5/11/2020), update your test report to show your updated (decomposed)
 
 ### Submit:
 
-URL for your project repository (Github) and location of test status report,
+URL for your project repository (Github) and location of test status report.
+
+### Sprint:
+
+![5-12](https://github.com/gowebUSA/MSSA-Project/blob/master/ProjectSteps/ProjectStep17/files/5-12.png?raw=true)
+![5-13](https://github.com/gowebUSA/MSSA-Project/blob/master/ProjectSteps/ProjectStep17/files/5-13.png?raw=true)
