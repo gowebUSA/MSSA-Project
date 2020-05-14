@@ -43,3 +43,5 @@ URL for your project repository (Github) and location of test status report.
 ![5-12](https://github.com/gowebUSA/MSSA-Project/blob/master/ProjectSteps/ProjectStep17/files/5-12.png?raw=true)
 5-13-2020
 ![5-13](https://github.com/gowebUSA/MSSA-Project/blob/master/ProjectSteps/ProjectStep17/files/5-13.png?raw=true)
+5-13a-2020
+![5-13a](https://github.com/gowebUSA/MSSA-Project/blob/master/ProjectSteps/ProjectStep17/files/5-13a.png?raw=true)
