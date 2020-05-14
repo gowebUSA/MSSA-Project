@@ -8,7 +8,6 @@ This week (5/11/2020), update your test report to show your updated (decomposed)
 - What percent of requirements are (currently) covered by test cases?
     * Test were done using the instructions on [Intertech](https://www.intertech.com/Blog/unit-test-net-entity-validation/).
     * There are total of 20 test from the original [RTM](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/Requirement%20List%20and%20RTM.pdf) but only **8** are implementable.
-    * 
 - What percent of test cases are currently passing?
     * There are 7 out 8 are passing and implemented which results to **87.5%**
 - What level of Validation could be expected after Verification? (Acceptance Tests?) And
@@ -20,6 +19,7 @@ This week (5/11/2020), update your test report to show your updated (decomposed)
     * Creation of an object (MAF, Aircraft)
     * Authentication of user's minimum fields.
 - Include RTM
+    * Link to main [RTM](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/Requirement%20List%20and%20RTM.pdf) list.
 
 |  #  | Test                | Unit Testing |
 |-----|---------------------|--------------|
