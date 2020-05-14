@@ -18,7 +18,7 @@ This week (5/11/2020), update your test report to show your updated (decomposed)
     * Username
     * Password
     * Creation of an object (MAF, Aircraft)
-    * Authemtication of user minimum fields.
+    * Authentication of user's minimum fields.
 - Include RTM
 
 |  #  | Test                | Unit Testing |
