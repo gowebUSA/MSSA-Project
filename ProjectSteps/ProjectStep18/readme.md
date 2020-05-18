@@ -9,7 +9,7 @@ code and architecture walk-through
 ### Product demonstration
 
 ### Lessons learned:
-what did you do right?
-what did you do wrong?
-where were you lucky?
-what would you change / what do you know now that you wish you knew "then"?
+1. What did you do right?
+2. What did you do wrong?
+3. Where were you lucky?
+4. What would you change / what do you know now that you wish you knew "then"?
