@@ -4,7 +4,7 @@
 Prepare and present your project to include: (Be sure to cover EACH of these in your presentation)
 
 1. Describe project experience including each phase of the SDLC and the project artifacts (design documents, requirements trace, test reports...)
-    * Download PowerPoint presentation [here](https://onedrive.live.com/edit.aspx?cid=93e91606e84d77fd&page=view&resid=93E91606E84D77FD!311&parId=93E91606E84D77FD!310&app=PowerPoint).
+    * Download PowerPoint presentation [here](https://1drv.ms/p/s!Av13TegGFumTgjdyjh1bUxvuk9Gq?e=a1GoMb).
 2. Code and architecture walk-through
     * Technology used. Click [here](https://github.com/gowebUSA/O-MAF/blob/master/OMAF/readme.md#implemented-the-following-technology).
     * Code [walk-through](https://github.com/gowebUSA/O-MAF/tree/master/OMAF).
