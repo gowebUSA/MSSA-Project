@@ -22,7 +22,7 @@ Project steps required for MSSA Cloud Application Development Cohort SD 7. You c
 - [x] Project Step 1 C# - Concept Investigation
 - [x] Project Step 2 C# - Project Selection
 - [x] Project Step 3 C# - Presentation/Peer Review
-- [x] Project Step 4 SQL - DB Design
+- [x] [Project Step 4 SQL](https://github.com/gowebUSA/MSSA-Project/tree/master/ProjectSteps/ProjectStep4) - DB Design
 - [x] Project Step 5 SQL - DB Implementation
 - [x] Project Step 6 SQL - UI/UX Wireframe(s)
 - [x] [Project Step 7 MVC](https://github.com/gowebUSA/MSSA-Project/tree/master/TSQL/Project-Step-7) - Requirements, Use Case
