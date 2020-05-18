@@ -7,7 +7,6 @@ Prepare and present your project to include: (Be sure to cover EACH of these in 
     * Download PowerPoint presentation [here](https://github.com/gowebUSA/MSSA-Project/blob/master/ProjectSteps/ProjectStep18/Go-Maf%20Presentation.pptx?raw=true).
 2. Code and architecture walk-through
     * Technology used. Click [here](https://github.com/gowebUSA/O-MAF/blob/master/OMAF/readme.md#implemented-the-following-technology).
-    * ```(https://onedrive.live.com/embed?cid=93E91606E84D77FD&resid=93E91606E84D77FD%21311&authkey=AHuDN-xG_vQUkg8&em=2)```
     * Code [walk-through](https://github.com/gowebUSA/O-MAF/tree/master/OMAF).
 3.  Product demonstration
     * https://gomaf.azurewebsites.net/
