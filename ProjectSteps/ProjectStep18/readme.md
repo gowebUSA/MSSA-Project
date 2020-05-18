@@ -7,7 +7,7 @@ Prepare and present your project to include: (Be sure to cover EACH of these in 
 2. code and architecture walk-through
 3.  Product demonstration
 4.  Lessons learned:
-   * What did you do right?
-   * What did you do wrong?
-   * Where were you lucky?
-   * What would you change / what do you know now that you wish you knew "then"?
+    * What did you do right?
+    * What did you do wrong?
+    * Where were you lucky?
+    * What would you change / what do you know now that you wish you knew "then"?
