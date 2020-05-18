@@ -1,4 +1,4 @@
-## Product Release / Project Presentation
+## Project Step 18 - Product Release / Project Presentation
 ### Submit Github link prior to presenting
 
 Prepare and present your project to include: (Be sure to cover EACH of these in your presentation)
