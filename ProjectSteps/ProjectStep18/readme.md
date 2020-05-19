@@ -17,6 +17,6 @@ Prepare and present your project to include: (Be sure to cover EACH of these in 
     * What did you do wrong?
       * Thinking too much on the design part will make some of your implemenation not do-able.
     * Where were you lucky?
-      * By using Microsoft Excel to implement my form design using CSS mso schemes. At forst, it was not showing the way I wanted to but when I figured out that the stylesheet.css was not publish correctly, I was able to correct it and my form work fine. I thought that the css mso schemes will not work because it was giving me warnings on VS.
+      * By using Microsoft Excel to implement my form design using CSS mso schemes. At first, it was not showing the way I wanted to but when I figured out that the stylesheet.css was not publish correctly, I was able to correct it and my form work fine. I thought that the css mso schemes will not work because it was giving me warnings on VS.
     * What would you change / what do you know now that you wish you knew "then"?
       * By knowing PowerShell made programming easier specially for migrating database context.
