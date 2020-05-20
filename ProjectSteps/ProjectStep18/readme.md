@@ -7,7 +7,7 @@ Prepare and present your project to include: (Be sure to cover EACH of these in 
     * Download PowerPoint presentation [here](https://1drv.ms/p/s!Av13TegGFumTgjdyjh1bUxvuk9Gq?e=a1GoMb).
 2. Code and architecture walk-through
     * Technology used. Click [here](https://github.com/gowebUSA/O-MAF/blob/master/OMAF/readme.md#implemented-the-following-technology).
-    * Code [walk-through](https://github.com/gowebUSA/O-MAF/tree/master/OMAF). Or see the PowerPoint slide [here](https://onedrive.live.com/view.aspx?resid=93E91606E84D77FD!311&ithint=file%2cpptx&authkey=!AHKOHVtTG-6T0ao).
+    * Code [walk-through](https://github.com/gowebUSA/O-MAF/tree/master/OMAF). Or see the PowerPoint slide [here](https://1drv.ms/p/s!Av13TegGFumTgjdyjh1bUxvuk9Gq?e=a1GoMb).
 3.  Product demonstration
     * https://gomaf.azurewebsites.net/
 4.  Lessons learned:
