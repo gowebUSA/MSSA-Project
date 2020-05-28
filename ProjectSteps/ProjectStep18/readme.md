@@ -4,7 +4,7 @@
 Prepare and present your project to include: (Be sure to cover EACH of these in your presentation)
 
 1. Describe project experience including each phase of the SDLC and the project artifacts (design documents, requirements trace, test reports...)
-    * See the main prject page [here](https://github.com/gowebUSA/MSSA-Project#go-maf-project).
+    * See the main project page [here](https://github.com/gowebUSA/MSSA-Project#go-maf-project).
     * Download PowerPoint presentation [here](https://1drv.ms/p/s!Av13TegGFumTgjdyjh1bUxvuk9Gq?e=a1GoMb).
 2. Code and architecture walk-through
     * Technology used. Click [here](https://github.com/gowebUSA/O-MAF/blob/master/OMAF/readme.md#implemented-the-following-technology).
