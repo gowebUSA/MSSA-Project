@@ -18,6 +18,7 @@ Using O MAF will enable maintenance controllers to effectively manage all MAFs a
 
 [Top](#online---maintenance-action-forms-o-maf)
 ## Use Case Diagram
+Used draw.io online tool (https://app.diagrams.net/)
 ![UML](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/Case%20UML.png)
 <br />
 [Top](#online---maintenance-action-forms-o-maf)
@@ -28,6 +29,7 @@ Using O MAF will enable maintenance controllers to effectively manage all MAFs a
 <br />
 [Top](#online---maintenance-action-forms-o-maf)
 ## ERD
+Used draw.io online tool (https://app.diagrams.net/)
 ![ERD](https://github.com/gowebUSA/MSSA-Project/blob/master/TSQL/Project-Step-7/prototype/images/O-MAF%20ERD.png)
 <br />
 [Top](#online---maintenance-action-forms-o-maf)
