@@ -1,4 +1,4 @@
-### Project Step 16 - CSS and Res[ponsive Design
+### Project Step 16 - CSS and Responsive Design
 
 - Desktop View
 
